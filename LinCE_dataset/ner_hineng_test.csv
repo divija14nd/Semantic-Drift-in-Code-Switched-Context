@@ -1,0 +1,1744 @@
+idx,words,lid,ner
+0,"['RT' '@srinivyasan' ':' 'Kahin' 'Pakistani' 'nahi' 'khel' 'sakte' ','
+ 'kahin' 'Sri' 'Lanka' 'wale' 'nahi' 'khel' 'sakte' '.' 'Kahin' 'stands'
+ 'ko' 'clearance' 'nahi' 'mil' 'rakha' '.' 'Mazak' 'ban']","['en' 'rest' 'rest' 'hi' 'rest' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'rest' 'hi' 'rest' 'hi' 'en' 'hi' 'hi' 'hi' 'rest' 'rest'
+ 'hi']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '']"
+1,"['RT' 'AAP_Najafgarh' '""' 'RT' 'NavbharatTimes' ':' 'neeerajbadhwar' ','
+ '...' '#Vi' 'https://t.co/0Nz3pd4cV3' '""']",['en' 'hi' 'rest' 'en' 'en' 'rest' 'hi' 'rest' 'rest' 'rest' 'en' 'rest'],['' '' '' '' '' '' '' '' '' '' '' '']
+2,"['@sandhirians' '@SanDhirHolics' '@SanDhirParShFC' 'insta' 'wala' 'pic'
+ '...' 'other' 'grp' '...' 'but' 'bada' 'mast' 'hai' '..'
+ 'http://t.co/o0De8Pmhzl']","['rest' 'rest' 'rest' 'rest' 'hi' 'en' 'rest' 'en' 'en' 'rest' 'en' 'hi'
+ 'hi' 'hi' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+3,"['Delhi' 'to' 'Dholakpur' '(' 'Chhota' 'Bheem' ')' 'new' 'train'
+ 'announce' 'na' 'karne' 'ki' 'wajeh' 'se' ',' 'Congress' 'ne'
+ '#RailBudget2015' 'ko' 'disappointed' 'declare' 'kar' 'diya' 'hai' '.']","['rest' 'hi' 'hi' 'rest' 'hi' 'hi' 'rest' 'en' 'en' 'en' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'rest' 'en' 'hi' 'en' 'hi' 'en' 'en' 'hi' 'hi' 'hi' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '']"
+4,"['@aajtak' 'Abe' 'Pagalo' 'degree' 'nakli' 'hai' ',' 'Aajtak' 'wale' 'ank'
+ 'gin' 'rahe' 'hai' 'ROFL']",['hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'en'],['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+5,"['ISRO' 'should' 'think' 'about' 'replacing' 'PSLV' 'with' 'Rahul'
+ 'Gandhi' '.' 'He' 'can' 'also' 'be' 're-launched' '7' 'to' '10' 'times'
+ '#RahulRally' '#RahulReturns' '#PappuFarce']","['en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'en' 'en' 'en' 'en'
+ 'en' 'en' 'hi' 'rest' 'en' 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+6,"['BJP' 'Presents' 'Proof' 'Of' ""PM's"" 'Degrees' ',' 'Demands' 'Apology'
+ 'From' 'Kejriwal' ':' 'Senior' 'Bharatiya' 'Janata' 'Party' '(' 'BJP' ')'
+ 'leader' '...' 'https://t.co/jcayIlmZZG']","['rest' 'en' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'rest' 'en'
+ 'hi' 'hi' 'en' 'rest' 'rest' 'rest' 'en' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+7,"['@ArvindKejriwal' '#WhereIsRahul' '#Pappu' 'toh' 'Gaya' 'Sonia' 'Mai'
+ 'apko' 'cong' 'chief' 'bana' 'sakti' 'hai' 'shayad' '.' 'Kyonki' 'beta'
+ 'Pappu' ',' '#DakuDamaad' 'ur' 'd' 'nly' 'option']","['en' 'en' 'rest' 'hi' 'hi' 'rest' 'hi' 'hi' 'en' 'en' 'hi' 'hi' 'hi' 'hi'
+ 'rest' 'hi' 'hi' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+8,"['RT' '@tavleen_singh' ':' 'Anurag' 'Thakur' 'asked' 'if' 'Congress' 'was'
+ 'with' 'Afzal' 'Guru' 'or' 'with' 'those' 'who' 'saved' 'Parliament' '.'
+ 'Rahul' 'Gandhi' 'left' 'the' 'Lok' 'Sabha']","['en' 'en' 'rest' 'en' 'hi' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'en' 'en' 'en' 'rest' 'en' 'rest' 'en' 'en' 'hi' 'hi']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '']"
+9,"['#RailBudget2015' ':' 'Modernize' 'infrastructure' ',' 'make' 'Indian'
+ 'Railways' 'financially' 'self-sustainable' ':' 'Suresh' 'Prabhu' ','
+ 'RM' 'http://t.co/2brHGQpZ0T']","['rest' 'rest' 'en' 'en' 'rest' 'en' 'rest' 'en' 'en' 'en' 'rest' 'en'
+ 'rest' 'rest' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+10,"[""That's"" 'mine' 'epic' 'Shame' 'on' 'Modi' '...!' 'AAP' 'Govt' 'Venkaiah'
+ 'Naidu' '#SansadChalneDo' '@aartic02' 'https://t.co/2DbnTvFZfj']","['en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'en' 'rest' 'rest' 'hi'
+ 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+11,"['RT' '@TimesNow' ':' 'Mehbooba' 'Mufti' 'will' 'be' 'sworn' 'in' 'as'
+ 'the' 'first' 'woman' 'chief' 'minister' 'of' 'Jammu' '&' 'Kashmir'
+ 'today' '.' 'Congress' 'to' 'boycott' 'ceremony' '#Meh']","['en' 'en' 'rest' 'hi' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'en' 'rest' 'rest' 'hi' 'en' 'rest' 'en' 'en' 'en' 'en' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '']"
+12,['@desert_bedouin1' 'ishrat' 'bhi' 'terrorist' 'thi'],['en' 'en' 'hi' 'en' 'hi'],['' '' '' '' '']
+13,"['RT' '@PrathmeshSawant' ':' 'BJP' 'seems' 'confused' 'between' '""'
+ 'Nirodh' '""' 'and' '""' 'Virodh' '""' '#BJPCountsCondoms']","['en' 'en' 'rest' 'rest' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'en' 'rest'
+ 'rest' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+14,['Vancouver' 'Nagar' 'kirtan' 'dia' 'kuj' 'pics' '..'],['en' 'hi' 'hi' 'hi' 'hi' 'en' 'rest'],['' '' '' '' '' '' '']
+15,"['OM' 'NAMAH' 'SHIVAYA' '!!!' 'Mahashivratri' 'Live' 'Webcast' 'with' 'H'
+ '.' 'H' '.' 'SRI' 'SRI' 'RAVI' 'SHANKAR' 'from' 'BANGALORE' 'ASHRAM'
+ '...' 'http://t.co/xtmokgZOAT']","['rest' 'rest' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'hi' 'rest' 'hi' 'rest'
+ 'rest' 'rest' 'rest' 'rest' 'en' 'rest' 'rest' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+16,"['we' 'will' 'wants' 'greentea' ',' 'more' 'namkeen' 'item' ','
+ 'different' 'quality' 'rice' 'in' 'patanjali' 'product' '@Ach_Balkrishna'
+ '@yogrishiramdev']","['en' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'en'
+ 'rest' 'en' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+17,"['Feeling' 'bad' 'for' 'RCB' 'not' 'for' 'I' 'predicted' 'them' 'in'
+ 'Playoff' 'but' 'feeling' 'bad' 'for' 'Virat' 'but' 'kudos' 'to'
+ 'Russell' 'n' 'Yusuf' '#IPL2016']","['en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+18,"['RT' '@BeerOholic' ':' 'Rahul' 'Gandhi' 'Videos' '-' 'helping' 'congress'
+ 'lose' ""'"" 'One' 'Vote' 'Per' 'View' ""'""]","['en' 'en' 'rest' 'en' 'rest' 'en' 'rest' 'en' 'en' 'en' 'rest' 'en' 'en'
+ 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+19,"['@Gurmeetramrahim' '@derasachasauda' 'jiyge' 'marge' 'mr' 'mitege' 'desh'
+ 'k' 'aan' 'ban' 'shan' 'k' 'liy' 'or' 'buraliyo' 'ka' 'khatma' 'khrne'
+ 'k' 'liy' 'MSG' 'tha' '#MSGmission']","['en' 'hi' 'en' 'en' 'en' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'hi' 'en' 'en' 'hi' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+20,"['Superb' 'movie' 'really' 'the' 'best' 'movie' 'for' 'salman' 'khan'
+ 'watching' 'Bajrangi' 'Bhaijaan']",['en' 'en' 'en' 'en' 'en' 'en' 'en' 'hi' 'hi' 'en' 'rest' 'rest'],['' '' '' '' '' '' '' '' '' '' '' '']
+21,"['#AAP' 'Water' 'and' 'Power' 'bills' 'slashes' '.' 'Congress' 'and' 'BJP'
+ 'ka' ""'"" 'Vilap' ""'"" '.' ""'"" 'Rudali' ""'"" 'ban' 'gayi' 'hai' 'dono'
+ 'party' '.' '#BJP' '#RailBudget2015' '#']","['rest' 'en' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'rest' 'hi' 'rest'
+ 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'en' 'rest'
+ 'rest' 'rest' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '']"
+22,"['@narendramodi' '#RailBudget2015' 'a' 'big' 'disappointment' 'being' 'an'
+ 'Andhrite' '.' 'God' 'sud' 'save' 'andhra' '&' 'telugu' 'people' '.'
+ 'Forced' 'unequal' 'division' 'on' 'us' '.']","['rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'rest'
+ 'rest' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+23,"['SARBJIT' 'Theatrical' 'Trailer' '-' 'Aishwarya' 'Rai' 'Bachchan' ','
+ 'Randeep' 'Hooda' ',' 'Omung' 'Kumar' 'https://t.co/932EJbQEsv']","['rest' 'en' 'en' 'rest' 'hi' 'hi' 'hi' 'rest' 'rest' 'rest' 'rest' 'en'
+ 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+24,['Mauka' 'Mauka' '...' 'Chak' 'De' 'India'],['hi' 'hi' 'rest' 'hi' 'hi' 'rest'],['' '' '' '' '' '']
+25,"['Wishing' 'a' 'happy' '#MahaShivratri' 'Om' 'Namah' 'Shivaya' 'Om'
+ 'Mrityunjay' 'mahadev' 'namosthuthe' 'http://t.co/42atPVVVLF']",['en' 'en' 'en' 'rest' 'rest' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'en'],['' '' '' '' '' '' '' '' '' '' '' '']
+26,"[""India's"" '#ThatCricketingMoment' 'which' 'starts' 'after' 'the'
+ 'dismissals' 'of' 'Rohit' ',' 'Dhawan' '&' 'Raina' '.']","['rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'rest'
+ 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+27,"['MP' 'ke' 'UJJAIN' 'mein' 'mahashivratri' 'ke' 'avsar' 'par' 'milabati'
+ 'prasad' 'khan' 'se' '1500' 'vyakti' 'bimar' 'ho' 'gaye' 'jinhe' 'jile'
+ 'ke' 'vibhin' 'hospital' 'me' 'admit' 'hona' 'p']","['rest' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest'
+ 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'en' 'en' 'hi' 'en' 'hi' 'hi']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '']"
+28,"['@RoyalThough' 'baaraat' 'me' 'aayi' 'h' 'kya' '.' 'Kis' 'baat' 'ka'
+ 'award' '.' 'Ek' 'toh' 'NRI' 'upar' 'se' 'award' '?' 'Chal' 'bhaag']","['en' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi'
+ 'rest' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+29,"['He' 'is' 'a' 'real' 'guru' 'of' 'Rahul' 'Gandhi' '.' 'We' 'need' 'to'
+ 'stop' 'blaming' 'a' 'kid' 'when' 'we' 'have' 'a' 'guru' '.'
+ '#ShameOnDigvijaya']","['hi' 'hi' 'hi' 'en' 'en' 'en' 'en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+30,"['@anilgupta5113' '@TarekFatah' '@htTweets' '20' 'million' 'ghuse' 'pade'
+ 'hain' '...' 'diplomacy' 'karte' 'rahe' 'to' 'jeena' 'haram' 'ho'
+ 'jayega' 'hamara']","['rest' 'hi' 'en' 'rest' 'en' 'hi' 'hi' 'hi' 'rest' 'en' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+31,"['@veejay_k' '@is_ishita' '@cdc9b75a7795437' '@nehaa141' '@sumit24verma'
+ 'Mahashivratri' 'ki' 'bahut' 'bahut' 'subhkamnayein' 'to' 'all' 'of' 'U'
+ 'http://t.co/djwlgRSr0f']","['rest' 'rest' 'rest' 'rest' 'en' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'en'
+ 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+32,"['RT' '@SomaVisal' ':' '#ScamQueenOnRoad' 'The' 'Sherni' 'became' 'a'
+ 'meek' 'cat' 'at' 'the' 'LS' 'after' ""Parikkar's"" 'concluding' 'speech'
+ '?' 'What' 'a' 'hit' 'that' 'ran' 'away' 'virtu']","['en' 'en' 'rest' 'en' 'en' 'hi' 'en' 'hi' 'hi' 'en' 'en' 'en' 'en' 'en'
+ 'rest' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '']"
+33,"['Passport' '.' 'Photo' '.' 'Form' '.' 'Welcome' 'to' 'Bhutan' '!'
+ '#travel' '#Bhutan' '@' 'Phuntsholing' 'https://t.co/SjlaC0bsc2']","['en' 'rest' 'en' 'rest' 'en' 'rest' 'en' 'hi' 'hi' 'rest' 'rest' 'rest'
+ 'rest' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+34,"['RT' '@Mrityunjoykjha' ':' 'My' 'fav' 'Shiv' 'Bhajan' '""' 'Hari' 'Om'
+ 'Tatsat' '""' 'by' 'Ustad' 'Bade' 'Ghulam' 'Ali' 'Khan' 'Saheb'
+ '#MahaShivratri' 'https://t.co/jxon0VW90l']","['en' 'en' 'rest' 'en' 'en' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'rest' 'en'
+ 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+35,"[':' 'LAST' 'NIGHT' 'MAHASHIVRATRI' 'RUDRABHISHEK' '.....' 'Abeer'
+ 'Gulaal' 'sringaar' '...']",['rest' 'en' 'en' 'rest' 'rest' 'rest' 'hi' 'hi' 'rest' 'rest'],['' '' '' '' '' '' '' '' '' '']
+36,"['pakistan' ':' '-' 'Haar' 'jeet' 'toh' 'game' 'ka' 'part' 'hai' '...'
+ 'Important' 'cheez' 'yeh' 'hai' 'ki' 'sabko' 'batting' 'mili' '..!!'
+ '#IndVsPak' '#CWC2015' '#BleedBlue']","['rest' 'rest' 'rest' 'hi' 'hi' 'hi' 'en' 'hi' 'en' 'hi' 'rest' 'en' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'en' 'hi' 'rest' 'rest' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+37,['@raviishndtv' 'or' 'jor' 'se' 'chato' 'Cong' 'ki'],['rest' 'hi' 'hi' 'hi' 'hi' 'en' 'hi'],['' '' '' '' '' '' '']
+38,"['RT' '@ggiittiikkaa' ':' 'Rahul' 'Gandhi' ':' 'Hum' 'chahte' 'hain'
+ 'shirt' ',' 'chappal' ',' 'kurte-pyjame' 'ki' 'sarkar' 'chale' 'Barkha'
+ ':' 'Epic' '!' 'Sagarika' ':' 'Brilliant' 'speech' '!' 'R']","['en' 'hi' 'rest' 'en' 'rest' 'rest' 'hi' 'hi' 'hi' 'en' 'rest' 'hi'
+ 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'en' 'rest' 'hi' 'rest' 'en' 'en'
+ 'rest' 'en']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '']"
+39,"['RT' '@EconomicTimes' ':' '.' '@ArvindKejriwal' 'should' 'make' 'public'
+ 'apology' 'for' 'remarks' 'on' 'PM' ""@narendramodi's"" 'degrees' ':' 'BJP'
+ 'https://t.co/8Nkm6lTV2M' 'https']","['en' 'en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest'
+ 'rest' 'en' 'rest' 'rest' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+40,"['RT' '@calamur' ':' '""' 'farce' 'masquerading' 'as' 'justice' '""' 'says'
+ 'sandipan' 'Sharma' 'on' 'the' 'JNU' 'suspensions'
+ 'https://t.co/MDfhx7CmU8']","['en' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'en' 'rest' 'en' 'rest' 'rest'
+ 'en' 'en' 'rest' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+41,"['Can' 'You' 'Take' 'It' 'Ravish' 'Kumar' '?' ':' 'http://t.co/ZjDpAhxrgX'
+ 'via' '@youtube' '#ndtv' '#ravishkumar']","['en' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'en'
+ 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '']
+42,"['@saurabhraajjain' 'Shiv' 'Shankar' 'Kre' 'apki' 'hr' 'murad' 'puri'
+ 'yhi' 'dua' 'h' 'hmri' 'ap' 'rhe' 'sada' 'khush' 'yhi' 'iltaza' 'hmri'
+ '.' 'MahaShivratri' 'ki' 'apko' 'hardik' 'abhindn' '.']","['hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest' 'hi' 'hi' 'hi' 'rest' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '']"
+43,"['RT' '@JustEditorials' ':' 'India' 'should' 'have' 'at' 'least' '60'
+ 'Muslim' 'MPs' ':' 'Asaduddin' 'Owaisi' '@EconomicTimes'
+ 'http://t.co/Z1HqMoZG3L']","['en' 'en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'rest'
+ 'hi' 'hi' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+44,"['Kya' 'lifetime' 'like' 'hi' 'karogi' '?' 'Kabhi' 'RT' 'nahi' 'karogi'
+ '?']",['hi' 'en' 'en' 'hi' 'hi' 'rest' 'hi' 'en' 'hi' 'hi' 'rest'],['' '' '' '' '' '' '' '' '' '' '']
+45,"['RT' '@AmitInsan12' ':' '@Gurmeetramrahim' '#MSGmissionHumanity' 'Papa'
+ 'ji' 'watermelon' 'khao' 'g' '...' 'aapke' 'liye' 'hai' 'ji' '...'
+ 'https://t.co/IKFe257inD']","['en' 'rest' 'rest' 'en' 'en' 'en' 'hi' 'en' 'hi' 'en' 'rest' 'hi' 'hi'
+ 'hi' 'hi' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+46,"['MahaPrasaad' 'On' 'Occasion' 'of' 'MahaShivRatri' 'by' 'Anaaval'
+ 'Shukaleshwar' 'Mahadev' 'Trust' '.' 'EveryBody' 'WelCome' '!' 'Oldest'
+ 'SwayamBhu' 'Ling' 'of' 'Bhagwaan' 'Shankar' '!']","['rest' 'en' 'en' 'en' 'en' 'en' 'hi' 'hi' 'rest' 'en' 'rest' 'en' 'en'
+ 'rest' 'en' 'hi' 'en' 'en' 'hi' 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+47,"['RT' '@KyaUkhaadLega' ':' 'When' 'a' 'non-marathi' 'girl' 'tried' 'to'
+ 'kiss' 'Raj' 'Thackeray' 'https://t.co/QVkkO3DROl']",['en' 'hi' 'rest' 'en' 'en' 'en' 'en' 'en' 'hi' 'hi' 'hi' 'en' 'en'],['' '' '' '' '' '' '' '' '' '' '' '' '']
+48,"['Gavran' 'chicken' '&' 'fish' 'fry' '@' 'Ghotawade' 'gaon' 'near'
+ 'Hinjewadi' 'phase3' '.' '@PuneFoodiez' 'https://t.co/ltExVWSJWx']","['en' 'en' 'rest' 'en' 'en' 'rest' 'hi' 'hi' 'en' 'en' 'en' 'rest' 'en'
+ 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+49,"['RT' '@VipulUpasani' ':' 'Srisrimangeshda' 'Hari' 'Om' 'Gurumauli'
+ 'really' 'greatest' 'program' '.' 'Icing' 'was' 'satsang' 'by' 'you'
+ 'explain' 'importance' 'of' '#Mahashivratri']","['en' 'en' 'rest' 'rest' 'hi' 'en' 'en' 'en' 'en' 'en' 'rest' 'en' 'en'
+ 'en' 'en' 'en' 'en' 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+50,"['@SrBachchan' '#MothersDay' 'Shweta' 'Bachchan' '@earth2angel' 'on' 'her'
+ 'mom' '#JayaBachchan' 'Must' 'read' 'https://t.co/tQYIGGXX51'
+ 'https://t.co/SXmuUT4b6d']",['hi' 'en' 'hi' 'hi' 'en' 'en' 'en' 'en' 'hi' 'en' 'en' 'en' 'en'],['' '' '' '' '' '' '' '' '' '' '' '' '']
+51,"['@ArvindKejriwal' 'Tumhare' 'theory' 'se' 'sab' 'kuch' 'chalta' 'hai'
+ 'kya' 'bizarre' 'babu' '?' 'Check' 'karwa' 'lo' 'aur' 'dekh' 'lo' '.']","['en' 'hi' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'en' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+52,"['RT' '@FocusNewsIndia' ':' '#BREAKING' '|' 'Lok' 'Sabha' '#Speaker'
+ 'Sumitra' 'Mahajan' 'rejects' '#Congress' 'MP' 'Jyotiraditya' ""Scindia's""
+ 'adjournment' 'motion' 'over' '#Lan']","['en' 'en' 'rest' 'rest' 'rest' 'hi' 'hi' 'en' 'en' 'rest' 'en' 'en' 'en'
+ 'en' 'rest' 'en' 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+53,"['RT' '@DrShobha' ':' '#7SistersOfIndia' 'Many' 'researchers' 'explain'
+ 'the' 'name' ""'"" 'Tripura' ""'"" 'from' 'its' 'etymological' 'origin' '1/n'
+ 'https://t.co/A7RAIA14tG']","['en' 'hi' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'rest'
+ 'en' 'en' 'en' 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+54,"['I' 'think' 'only' 'The' 'SuperStar' 'Ajit' 'Agarkar' 'or' 'The'
+ 'MegaStar' 'Munaf' 'Patel' 'can' 'remove' 'Hashim' 'Amla' '#IndvsSA'
+ '#INDvSA' '#ProteaFire']","['en' 'en' 'en' 'en' 'en' 'en' 'hi' 'hi' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'rest' 'rest' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+55,['@RanaAyyub' 'but' 'aunty' 'ji' 'still' 'tweeting' 'non' 'sense' '!!!'],['hi' 'en' 'en' 'hi' 'en' 'en' 'en' 'en' 'rest'],['' '' '' '' '' '' '' '' '']
+56,"['Mustafizur' 'Rahman' 'is' 'an' 'another' 'level' 'bowler' '.' 'He' 'is'
+ 'in' 'the' 'league' 'of' 'McGrath' '&' 'Akram' '.' '#LegendInMaking'
+ '#NZvsBan' '#IndvsAus']","['en' 'rest' 'en' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'rest' 'rest' 'rest' 'en' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+57,"['RT' '@TimesNow' ':' 'Congress' 'reacts' 'to' 'Suresh' ""Prabhu's""
+ 'maiden' '#RailBudget2015' ',' 'says' ',' '""' 'UPA' 'policies'
+ 'repackaged' '""']","['en' 'en' 'rest' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'rest' 'en' 'rest'
+ 'rest' 'rest' 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+58,['@YouTeeee' 'bhai' 'yeh' 'to' 'hillarious' 'ho' 'gea' ':-D'],['en' 'hi' 'hi' 'hi' 'en' 'hi' 'en' 'rest'],['' '' '' '' '' '' '' '']
+59,"['RT' '@ESPNcricinfo' ':' 'ICYMI' ':' 'It' 'was' 'a' 'Virat' 'Kohli'
+ 'special' 'in' 'Mohali' 'Match' 'report' ':' 'https://t.co/iUH7WYOWW0'
+ '#INDvAUS' '#WT20' 'https://t.co/TbkWLU75']","['en' 'en' 'rest' 'en' 'rest' 'en' 'en' 'en' 'rest' 'rest' 'en' 'en' 'en'
+ 'en' 'en' 'rest' 'en' 'rest' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+60,"['@Gurmeetramrahim' '#MustWatchMSG' 'RUBRURATRI' 'TWTRATRI' 'N' 'ZORON'
+ 'CE' 'CHL' 'RAHI' 'MSGRATRI' 'K' 'SATH' '2' 'AJ' 'HM' 'SBHMAHASHIVRATRI'
+ 'MNANE' 'JA' 'RAHE' 'HAIN']","['en' 'en' 'en' 'en' 'en' 'en' 'en' 'hi' 'hi' 'en' 'hi' 'hi' 'rest' 'hi'
+ 'hi' 'rest' 'rest' 'hi' 'hi' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+61,"['RT' '@coolfunnytshirt' ':' 'Mithunda' 'could' 'sue' 'Kapil' 'Sharma'
+ 'for' 'copyright' 'infringement' 'of' ""'"" 'babaji' 'ka' 'thullu' ""'""
+ 'http://t.co/pmeMsZVtji']","['en' 'en' 'rest' 'rest' 'en' 'en' 'rest' 'rest' 'en' 'en' 'en' 'en'
+ 'rest' 'hi' 'hi' 'en' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+62,"['Sabhi' 'log' 'free' 'WiFi' 'kar' 'rahe' 'he' 'Abhi' 'usme' 'bhi' 'quota'
+ 'hoga' 'kuch' 'dino' 'http://t.co/Mn6AVQPIFt' 'unlimited' 'obc' '1gb'
+ 'general' '100mb' '#RailBudget2015']","['hi' 'hi' 'en' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'en' 'hi' 'hi' 'hi'
+ 'en' 'en' 'rest' 'rest' 'en' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+63,"['RT' '@MrsGandhi' ':' 'Minister' '@nitin_gadkari' 'stands' 'in' 'queue'
+ 'to' 'board' 'Nagpur-Delhi' 'flight' 'like' 'any' 'other' 'ordinary'
+ 'citizen' '.' 'True' 'Aam' 'Aadmi' '!' 'http' ':/']","['en' 'rest' 'rest' 'en' 'hi' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'en' 'en' 'en' 'rest' 'en' 'hi' 'hi' 'rest' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+64,"['@HoeZaay' '#MisheardLyrics' 'Tanu' 'Weds' 'Manu' 'Rangrez' 'mere' '...'
+ 'Mera' 'rahbar' 'tu' 'Mera' 'sarvar(Server' ')' 'tu' 'Mera' 'akhbar' 'tu'
+ '...']","['hi' 'en' 'rest' 'en' 'rest' 'rest' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'en'
+ 'rest' 'hi' 'hi' 'hi' 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+65,"['RT' '@SharmiliChudail' ':' 'Hoshwalon' 'ko' 'khabar' 'kya' '...'
+ 'Anaesthesia' 'kya' 'cheez' 'hai' '!']",['en' 'en' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest'],['' '' '' '' '' '' '' '' '' '' '' '' '']
+66,"['#24' '-' 'Telugu' 'Movie' 'Theatrical' 'Trailer' '|' 'Suriya' ','
+ 'Samantha' ',' 'Nithya' '|' 'A.R' 'Rahman' 'https://t.co/K6PtXsFwcP'
+ 'via' '@YouTube']","['rest' 'rest' 'en' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'rest' 'rest'
+ 'rest' 'rest' 'rest' 'rest' 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+67,"['RT' '@deep_anchor' ':' 'This' 'is' 'a' 'wonderful' 'Baba' '!' 'Meet' ""'""
+ '#Biryani' 'Baba' ""'"" 'The' 'Man' 'Who' 'Has' 'Fed' 'More' 'Than' 'One'
+ 'Crore' 'Poor' 'People' '.' 'https://t.co/WcTQICtntj']","['en' 'en' 'rest' 'en' 'en' 'en' 'en' 'hi' 'rest' 'en' 'rest' 'rest' 'hi'
+ 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'en']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '']"
+68,"['RT' '@mkvenu1' ':' 'No' 'sedition' 'here' '?' 'Hindu' 'Mahasabha'
+ 'Marks' 'Day' 'Mahatma' ""Gandhi's"" 'Killer' 'Nathuram' 'Godse' 'Was'
+ 'Hanged' 'https://t.co/RUlspJBu6Y' 'via' '@Huf']","['en' 'en' 'rest' 'en' 'en' 'en' 'rest' 'rest' 'hi' 'en' 'en' 'rest'
+ 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+69,"['Swatch' 'Bharat' 'abhiyan' 'on' '..' 'Isis' 'jehadis' 'getting' 'torn'
+ 'apart' 'and' 'dumped' '...' 'Ajit' 'doval' 'u' 'master' 'class' '.'
+ 'Jai' 'Hind' '.' '#IndiaFightsISIS']","['en' 'hi' 'hi' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'en'
+ 'en' 'en' 'en' 'en' 'rest' 'hi' 'hi' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+70,"['Behtareen' 'Fielding' '....' 'Yaar' 'Raina' '@ImRaina' '..' 'pyar' 'se'
+ 'out' 'tha' '...' 'bhai' '...' 'comon' 'boyz' '..' '#IndvsSA']","['hi' 'en' 'rest' 'hi' 'rest' 'rest' 'rest' 'hi' 'hi' 'en' 'hi' 'rest'
+ 'hi' 'rest' 'en' 'en' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+71,['Rest' 'in' 'Peace' 'Lance' 'Nayak' 'Hanumanthappa' '.' 'Salute'],['en' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'en'],['' '' '' '' '' '' '' '']
+72,"['@IYC' '@OfficeOfRG' '@INCIndia' 'Aur' 'ye' 'nahi' 'bataya' 'RG'
+ 'holiday' 'mana' 'rahe' 'hai' '?' 'Sharm' 'to' '#Congress' 'ko' 'karna'
+ 'chahiye' 'ki' '#PathankotAttack' 'me' 'rajniti' '??']","['en' 'en' 'rest' 'hi' 'hi' 'hi' 'hi' 'en' 'en' 'hi' 'hi' 'hi' 'rest' 'hi'
+ 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+73,"['RT' '@TweetsBySehar' ':' 'Hoon' 'Mohabbat' 'Se' 'Majboor' 'Warna' '...'
+ 'Tujhe' 'Yaad' 'Karna' 'Koi' 'Sawab' 'Thori' 'Hai' '...!!' '#UrduPoetry']","['en' 'en' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+74,"['Mukul' 'Kumar' 'Hitesh' 'Khatpalani' 'Manish' 'Barnwal' 'see' 'this'
+ '..' 'https://t.co/P5JgmFryhs']",['en' 'hi' 'hi' 'hi' 'rest' 'en' 'en' 'en' 'rest' 'en'],['' '' '' '' '' '' '' '' '' '']
+75,"['Hum' '#QuarterFinal' 'toh' 'Haar' 'Hi' 'Nahin' 'Sakte' 'Kyonki' 'Jahan'
+ '#Quarter' 'Mil' 'Jaye' 'toh' 'Hum' 'Usko' 'Final' 'Karke' 'Hi' 'Uthte'
+ 'Hain' '!' '#INDvBAN']","['hi' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'en' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+76,"['Credit' 'goes' 'to' 'Rahul' 'Dravid' 'and' 'Zaheer' 'Khan' '!' 'Do'
+ 'you' 'agree' '?' '#DDvKKR' '#WellDoneDelhiDaredevils']","['en' 'en' 'en' 'en' 'en' 'en' 'hi' 'hi' 'rest' 'en' 'en' 'en' 'rest'
+ 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+77,"['RT' '@SpokespersonMoD' ':' 'IAF' 'in' 'action' 'over' 'Uttarakhand'
+ 'helping' 'local' 'authorities' 'in' 'controlling' 'forest' 'fires' '.'
+ 'https://t.co/YxDUrzBlQz']","['en' 'en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+78,"['@sureshpprabhu' 'quoting' 'Shubhada' 'Gogate' 'in' '#RailBudget2015'
+ 'Go' '#Marathi' 'literature' '!!!']",['rest' 'en' 'hi' 'en' 'en' 'en' 'en' 'rest' 'en' 'rest'],['' '' '' '' '' '' '' '' '' '']
+79,"['RT' '@saloniradhainsa' ':' '@Gurmeetramrahim' '#MustWatchMSG' 'PAPAJI'
+ '...' 'M' 'eagerlyyyyy' 'waiting' '4' 'Ur' 'Tweet' '...' 'Missing' 'U'
+ '...' 'bhtt' 'yaad' 'aa' 'rhi' 'h' 'JAANAPAPA' 'JI']","['en' 'rest' 'rest' 'en' 'en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'rest' 'en' 'en' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+80,"['Nitin' 'Gadwari' 'is' 'a' 'man' 'of' 'good' 'ideas' 'and' 'great'
+ 'vision' '.']",['en' 'hi' 'hi' 'hi' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest'],['' '' '' '' '' '' '' '' '' '' '' '']
+81,"['Gali' 'Gali' 'me' 'shor' 'hai' ',' 'Gandhi' 'family' 'chor' 'hai'
+ '#AugustaWestland' '#GandhisAreChor']",['hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest' 'en' 'hi' 'hi' 'en' 'rest'],['' '' '' '' '' '' '' '' '' '' '' '']
+82,"['Chalo' 'akhirkaar' 'kal' 'toh' 'mai' 'trend' 'hojaunga' '#MahaShivratri'
+ 'xP' 'Champion' 'KKR' 'Squad' '2015']",['hi' 'hi' 'hi' 'hi' 'hi' 'en' 'hi' 'rest' 'rest' 'en' 'hi' 'en' 'rest'],['' '' '' '' '' '' '' '' '' '' '' '' '']
+83,"['RT' '@AksharPathak' ':' 'Airhostess' 'Sonu' 'Nigam' ':' '""' 'Kripya'
+ 'dhyan' 'dein' '.' 'Aapatkaleen' 'stithi' 'me' 'vimaan' 'ke' 'pichle'
+ 'bhaag' 'mein' 'do' 'dwaar' 'mil' 'rahein' 'hain' ',' 'ma']","['en' 'hi' 'rest' 'en' 'rest' 'rest' 'rest' 'rest' 'rest' 'hi' 'hi' 'rest'
+ 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest'
+ 'en']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '']"
+84,['@VarshaVeta' 'or' 'baju' 'mein' 'papad' 'hai'],['hi' 'hi' 'hi' 'hi' 'hi' 'hi'],['' '' '' '' '' '']
+85,"['Om' 'Namah' 'Shivay' 'MahaShivratri' 'ki' 'ratri' 'ka' 'samhya' 'aa'
+ 'gaya' 'bhagto' '.' '.' 'Ek' 'baar' 'dil' 'se' 'bol' 'do' '....' 'Har'
+ 'Har' '...' 'http://t.co/smqIXcP1hQ']","['rest' 'rest' 'rest' 'rest' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest'
+ 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+86,"['@AnupamPkher' '@narendramodi' 'life' 'mein' 'kuch' 'bhi' 'ho' 'sakta'
+ 'hai']",['rest' 'rest' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'],['' '' '' '' '' '' '' '' '']
+87,"['Chief' 'Minister' 'Shivraj' 'Singh' 'Chouhan' 'and' 'his' 'wife'
+ 'Sadhana' 'Singh' 'performed' 'PujaMahashivratri'
+ 'http://t.co/BXgV8ch7Zy']","['rest' 'en' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'rest' 'en' 'en' 'rest'
+ 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '']
+88,"['@Umairrow' 'the' ""guy's"" 'like' 'a' 'deisel' 'engine']",['en' 'en' 'en' 'en' 'en' 'en' 'en'],['' '' '' '' '' '' '']
+89,"['@samarjeet_n' 'Mahashivratri' 'ki' 'bela' 'me' 'prarthana' 'hai' 'SHIV'
+ 'JI' 'SABKA' 'KALYAAN' 'KAREN' ',' 'Its' 'a' 'spiritual' 'day' 'of'
+ 'worship' 'n' 'prayer' 'for' 'us']","['rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest'
+ 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+90,"['RT' '@prateekharsh9' ':' '@sevaknamo' 'kishan' 'ko' 'toh' 'jete' 'ji'
+ 'mar' 'doge' 'tmlog' '#LandAcquisitionBill' 'p' 'asa' 'ordinanc' 'laye'
+ 'ho' 'k' 'kisi' 'ka' 'bhi' 'jameen' 'cheen' 'l']","['en' 'rest' 'rest' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'en' 'en'
+ 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '']"
+91,"['Agar' 'India' 'Ye' 'Match' 'Nahin' 'Jeeta' 'To' 'Suicide' 'Kar' 'Lunga'
+ 'BC' ':D' '#IndvsPak']",['hi' 'rest' 'hi' 'en' 'hi' 'hi' 'hi' 'en' 'hi' 'hi' 'rest' 'rest' 'rest'],['' '' '' '' '' '' '' '' '' '' '' '' '']
+92,"['RT' '@AIMIM_faraaz' ':' 'Live' ':' 'Asaduddin' 'Owaisi' 'announced'
+ 'participation' 'in' '#Bihar' 'Elections' '@asadowaisi'
+ 'http://t.co/mvri1yUf9H' '@AimimFansClub' '@ru']","['en' 'rest' 'rest' 'en' 'rest' 'hi' 'hi' 'en' 'en' 'en' 'rest' 'en' 'hi'
+ 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+93,"['#IBleedGreen' 'inshaALLAH' 'aaj' 'hamaray' 'fast' 'bowlers' 'kamal'
+ 'kar' 'dikhayengay']",['en' 'hi' 'hi' 'en' 'en' 'en' 'hi' 'hi' 'hi'],['' '' '' '' '' '' '' '' '']
+94,"['RT' 'Kaushik22R' ':' 'Jo' 'Guru' 'hi' 'vo' 'hi' 'Shiv' 'hai' 'is'
+ 'nimita' '#Rudrabhishekh' 'kia' '#MahaShivratri' 'ashramindia'
+ 'TruthRoars' '14FebP' 'http://t.co/HmPNQhRJvS']","['en' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'rest' 'rest' 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+95,"['Clash' 'with' 'Salman' 'Khans' 'Sultan' 'is' 'suicide' '|' 'via'
+ '@indiacom' 'https://t.co/4Cm7nZQG8E' 'Je' 'baat']","['en' 'en' 'rest' 'rest' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'en' 'hi'
+ 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '']
+96,"[""@Gurmeetramrahim's"" 'account' 'has' 'been' 'withheld' 'in' 'India' 'in'
+ 'response' 'to' 'a' 'legal' 'demand' '.' 'Learn' 'more' '.']","['en' 'en' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'rest'
+ 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+97,"['Rohit' 'Sharma' 'ji' 'apna' 'rang' 'dikhate' 'huye' '..' '#Ind' 'vs'
+ 'NZ']",['en' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest' 'rest' 'rest'],['' '' '' '' '' '' '' '' '' '' '']
+98,"['@SirPareshRawal' 'sir' ',' 'jahan' 'aap' 'jaise' 'behtareen' '&'
+ 'adbhut' 'actor' 'hon' '...' 'vo' 'planet' 'hell' 'toh' 'ho' 'hi' 'nahi'
+ 'sakta' '..']","['en' 'en' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'en'
+ 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+99,"['Aesyy' 'tweets' 'ki' 'wajh' 'se' 'he' 'tu' 'zindaa' 'hain'
+ 'https://t.co/3oYvLQDtBC']",['en' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'en'],['' '' '' '' '' '' '' '' '' '']
+100,"['RT' '@GauravPandhi' ':' 'Savarkar' ""didn't"" 'kill' 'Gandhi' 'Nehru'
+ 'was' 'not' 'the' 'first' 'PM' 'Like' ',' 'Modi' 'is' 'a' 'post-graduate'
+ 'Global' 'warming' ""doesn't"" 'exist' 'https']","['en' 'rest' 'rest' 'rest' 'en' 'en' 'rest' 'rest' 'en' 'en' 'en' 'en'
+ 'rest' 'en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+101,"['Jai' 'bhole' 'Happy' 'mahashivratri' 'to' 'all' 'Missing' 'u' 'bhaiyon'
+ 'Dubstep' 'bna' 'ra' 'hun' 'Iss' 'bar' 'bhai' 'ka' 'gaana' 'sun' 'na']","['hi' 'hi' 'en' 'en' 'en' 'en' 'en' 'en' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'hi' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+102,"['@typerioter' 'after' 'this' 'month' ',' ""it's"" 'Shaban' ',' 'Rajab'
+ 'and' 'holy' 'month' 'Ramadan']","['en' 'en' 'en' 'en' 'rest' 'en' 'rest' 'rest' 'rest' 'en' 'en' 'en'
+ 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '']
+103,"['RT' '@Funny_Truth' ':' '30' 'day' 'ab' 'challenge'
+ 'http://t.co/9c655DnW5G']",['en' 'en' 'rest' 'rest' 'en' 'hi' 'en' 'en'],['' '' '' '' '' '' '' '']
+104,"['@KapoorMaahi' 'yeh' 'gareeb' 'ka' 'majak' 'bana' 'rahe' 'hai' '....'
+ 'Gareeb' 'kaha' 'sei' 'paisa' 'layega' '...' 'saara' 'paisa' 'toe'
+ 'Indira' 'and' 'Rajiv' 'Gandhi' 'loot' 'lete' 'thei']","['hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'rest' 'hi' 'hi' 'hi' 'rest' 'en' 'rest' 'rest' 'hi' 'hi' 'hi']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '']"
+105,"['Satya' 'vachan' '#Satya' 'vachan' '.........' '(' 'Y' ')' 'Salute' 'and'
+ 'hats' 'off' 'Mithun' 'daa' '...' 'In' 'your' 'words' '....' 'KYA' 'BAAT'
+ 'KYA' 'BAAT' 'KYA' '...' 'http://t.co/V7EPdmEe6H']","['hi' 'hi' 'hi' 'hi' 'rest' 'rest' 'en' 'rest' 'en' 'en' 'en' 'en' 'en'
+ 'hi' 'rest' 'en' 'en' 'en' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'en']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '']"
+106,"['@kanimozhi' '@khushsundar' '@kapil_kausik' '@mayuranit' '@Sahadev214'
+ 'Poor' 'sundae' '?' 'Pity' 'him' '!']",['hi' 'hi' 'hi' 'rest' 'rest' 'en' 'en' 'rest' 'en' 'en' 'rest'],['' '' '' '' '' '' '' '' '' '' '']
+107,"['Superstar' ""Rajinikanth's"" 'Next' 'Film' 'With' 'Director' 'Ranjith' '-'
+ 'Thanthi' 'TV' '-' 'TamilTwin' 'http://t.co/NPUYvt4YyP']","['rest' 'rest' 'en' 'en' 'en' 'en' 'rest' 'rest' 'hi' 'en' 'rest' 'en'
+ 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '']
+108,"['#MahaShivratri' 'hiduo' 'ke' 'raja' 'sree' 'ram' 'ji' 'bhi' 'shankar'
+ 'ji' 'ke' 'pukarne' 'se' 'dharti' 'par' 'janm' 'lete' 'he' ',' 'un'
+ 'shankar' 'ke' 'charno' 'me' 'mastak' 'nabhata' 'hu']","['rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '']"
+109,"['RT' '@warispathan' ':' 'MIM' 'MLAs' 'waris' 'pathan' 'and' 'imtiyaz'
+ 'jaleel' 'on' 'Tuesday' 'met' 'the' 'newly' 'appointed' 'Mumbai' 'police'
+ 'commissioner' 'ahmed' '...' 'http://t.c']","['en' 'hi' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+110,"['@hitennarendra' 'ye' 'dhaniya' 'wali' 'baat' 'dil' 'ko' 'choo' 'gayi'
+ ':)']",['rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest'],['' '' '' '' '' '' '' '' '' '']
+111,"['@Gurmeetramrahim' 'ohh' 'aj' 'to' 'blood' ',' 'sfai' 'abhiyan' ','
+ 'plantsion' 'briliint' 'work' 'papa' 'ji' '#MSGmissionHumanity']","['en' 'en' 'hi' 'hi' 'en' 'rest' 'hi' 'hi' 'rest' 'en' 'en' 'en' 'en' 'hi'
+ 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+112,"['MahaShivRatri' 'Ki' 'sabko' 'badhai' '..!' 'Happy' 'MahaShivratri'
+ 'eveyone' '..!' 'Om' 'Namah' 'Shivaye' '..!!']","['rest' 'hi' 'hi' 'hi' 'rest' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'hi'
+ 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '']
+113,"['RT' '@SrBachchan' ':' '@MuVyz' '@SaurabhTurakhia' '@Thekkapoor'
+ '@AyushMehta3' '@NadkarAmit' '@EFSENAROCKS' 'chalo' 'correction' 'kar'
+ 'lo']",['en' 'rest' 'rest' 'en' 'hi' 'hi' 'hi' 'rest' 'en' 'hi' 'en' 'hi' 'hi'],['' '' '' '' '' '' '' '' '' '' '' '' '']
+114,"['#virat' 'kholi' '..' 'please' 'announce' 'your' 'retirement' '..'
+ 'please' '..' 'enjoy' 'with' 'anuskha']",['rest' 'hi' 'rest' 'en' 'en' 'en' 'en' 'rest' 'en' 'rest' 'en' 'en' 'hi'],['' '' '' '' '' '' '' '' '' '' '' '' '']
+115,"['RT' '@KyaUkhaadLega' ':' 'Vira' 'Kohli' 'with' 'Suresh' 'Raina' ','
+ 'Shikhar' 'Dhawan' 'and' 'Rohit' 'Sharma' '...' 'https://t.co/UTVtGLaPZG']","['en' 'hi' 'rest' 'rest' 'rest' 'en' 'en' 'rest' 'rest' 'hi' 'hi' 'en'
+ 'en' 'rest' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+116,"['@ZeeNewsHindi' 'ask' 'rahul' 'gandhi' 'who' 'made' 'him' 'Rajya' 'sabha'
+ 'member' 'and' 'why' 'what' 'he' 'offered' 'to' 'party' '?']","['en' 'en' 'en' 'rest' 'en' 'en' 'en' 'rest' 'hi' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+117,"['RT' '@Babu_Bhaiyaa' ':' ""Opposition's"" 'issues' 'before' '2014' '2G'
+ 'CWG' 'Coalgate' 'Adarsh' 'Now' ':' ""Modi's"" 'suit' ""Modi's"" 'shawl'
+ ""Modi's"" 'degree' ""Modi's"" 'marriage' 'Modi' ""'""]","['en' 'rest' 'rest' 'en' 'en' 'en' 'rest' 'rest' 'en' 'en' 'en' 'en'
+ 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+118,"['@JhaSanjay' '@OfficeOfRG' '@INCIndia' '@nsui' '@IYC' 'Aap' 'ko' 'nahi'
+ 'bulaya' 'tha' 'es' '#function' 'me' '?']","['hi' 'en' 'rest' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'en' 'hi'
+ 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+119,"['RT' '@AmritanshuGupta' ':' 'Wow' '!' 'Great' 'to' 'see' '@JontyRhodes8'
+ 'valuing' 'Indian' 'customs' 'doing' 'Puja' 'at' 'Pejawar' 'Matt' ','
+ 'Santacruz' 'in' 'traditional' 'attire' '.' 'ht']","['en' 'rest' 'rest' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'rest' 'en' 'en'
+ 'en' 'en' 'hi' 'hi' 'rest' 'en' 'en' 'en' 'en' 'rest' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+120,['Hardik' 'Pandya' 'is' 'Joginder' 'Sharma' '2.0' '.' '#IndvsBan' '#WT20'],['hi' 'rest' 'en' 'en' 'rest' 'rest' 'rest' 'rest' 'rest'],['' '' '' '' '' '' '' '' '']
+121,"['India' 'waly' 'bhi' 'thek' 'hai' '..' 'Shuru' 'main' 'bachn' 'ko'
+ 'khilaty' 'hain' 'taa' 'k' 'agli' 'team' 'kush' 'ho' 'jay' 'usk' 'bd'
+ 'papa' 'kohli' 'ko' 'bhej' 'k' 'rape' 'krty' 'hain' '#IndvsPak']","['rest' 'en' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '' '' '']"
+122,"['@sureshpprabhu' 'Prabhu' 'live' ':' 'More' 'coaches' ',' 'more' 'berths'
+ ',' 'no' 'fare' 'hike' '#RailBudget2015' 'http://t.co/0D3uitk8Gw']","['rest' 'rest' 'en' 'rest' 'en' 'en' 'rest' 'en' 'en' 'rest' 'en' 'en'
+ 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+123,"['Vadra' ':' 'Kya' 'ye' 'sach' 'hai' 'modi' 'ji' '?' 'Modi' ':' 'kya' '??'
+ 'Vadra' ':' '#LandAcquisitionBill' '?' 'Modi' ':' 'haan' '..' 'but'
+ 'puch' 'kyon' 'raha' 'hai' '?' 'Vadra' ':' 'Nothing' ',' 'I' 'Love' 'u'
+ "":')""]","['rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'rest' 'rest' 'rest' 'hi'
+ 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'hi' 'rest' 'en' 'hi'
+ 'hi' 'hi' 'hi' 'rest' 'rest' 'rest' 'en' 'rest' 'en' 'en' 'en' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '' '' '' '' '' '' '' '']"
+124,"['There' 'are' 'many' 'holding' 'back' 'their' 'Tweet' 'related' 'to'
+ 'Anushka' 'Sharma' 'just' 'coz' 'of' ""Kohli's"" ""'"" 'Shame' ""'"" 'Tweet'
+ '.' '#DDvsRCB' '#RCBvDD']","['en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'hi' 'hi' 'rest' 'en' 'en' 'en'
+ 'rest' 'rest' 'hi' 'rest' 'en' 'rest' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+125,"['RT' '@PMOIndia' ':' 'Swachh' 'Bharat' 'Mission' 'gets' 'a' 'boost' '.'
+ '#SaalEkShuruaatAnek' '#MyCleanIndia' 'http://t.co/hVtBkrUVDe']",['en' 'rest' 'rest' 'hi' 'hi' 'en' 'en' 'en' 'en' 'rest' 'hi' 'rest' 'en'],['' '' '' '' '' '' '' '' '' '' '' '' '']
+126,"['RT' '@Atheist_Krishna' ':' 'Mallya' 'chala' 'gaya' 'RCB' 'chhod' 'gaya'
+ '~' 'Rest' 'of' 'the' 'IPL' 'team' 'owners']","['en' 'rest' 'rest' 'en' 'hi' 'hi' 'rest' 'hi' 'hi' 'rest' 'en' 'en' 'en'
+ 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+127,"['Kya' 'number' 'hai' 'bike' 'ka' '....' 'new' 'vehicle' 'registration'
+ 'style' 'of' 'policewalas' 'https://t.co/dcFA2Hl3a6']",['hi' 'en' 'hi' 'hi' 'hi' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en'],['' '' '' '' '' '' '' '' '' '' '' '' '']
+128,"['@PoojaMissra' 'Naacho' 'BC' 'pathakhe' 'to' '#India' 'me' 'hi'
+ 'foodenge' ',,,,,' '#IndvsSA' '#Indiawins' '#JaiHind'
+ 'http://t.co/ubPzr5GLJF']","['rest' 'hi' 'rest' 'hi' 'hi' 'rest' 'hi' 'hi' 'en' 'rest' 'rest' 'rest'
+ 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+129,"['#IndvsPak' 'Jeet' 'se' 'sab' 'itne' 'khush' 'h' 'ki' 'kisi' 'ne' 'badte'
+ 'petrol' 'ki' 'taraf' 'dhyan' 'hi' 'nahi' 'diya' ',' 'modi' 'khush' 'hua']","['rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'en' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'rest' 'rest' 'hi' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+130,"['@NeelakshiGswm' 'more' 'bike' 'stunts' 'on' 'India' 'gate' 'by' 'Muslim'
+ 'boys' ',' 'more' 'Hindu' 'girls' 'got' 'beaten' 'by' '#AAPtards' 'as'
+ '@NupurSharmaBJP' ',' 'shame' 'on' 'delhi']","['en' 'en' 'hi' 'en' 'en' 'rest' 'hi' 'en' 'en' 'en' 'rest' 'en' 'rest'
+ 'en' 'en' 'en' 'en' 'rest' 'en' 'rest' 'rest' 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+131,"['Jaa' 'mar' 'ja' 'kamine' 'Maine' 'kaha' 'tha' 'dhawan' 'se' 'muze'
+ 'umeed' 'nai' 'kam' 'se' 'kam' '100' 'to' 'banata' 'but' 'koi' 'na' 'ye'
+ 'bhi' 'thik' 'h' '#IndvsPak']","['hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'en' 'hi' 'hi' 'hi'
+ 'hi' 'rest' 'hi' 'hi' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '']"
+132,['RT' '@ANILINSANRAJPUT' ':' '@Gurmeetramrahim' 'mehr' 'krna' 'papa' 'ji'],['en' 'rest' 'rest' 'en' 'hi' 'hi' 'en' 'hi'],['' '' '' '' '' '' '' '']
+133,"['Bum' 'bum' 'bhole' '...' 'Mahashivratri' 'ki' 'sabko' 'Bahot'
+ 'shubhkamnaaye' 'Shiva' 'chants' 'for' 'all' 'devotees' '...' ""'"" 'Shiv'
+ 'shankra' ""'"" '...' 'http://t.co/xLiCA9r3Ud']","['hi' 'hi' 'hi' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'en' 'en' 'en'
+ 'en' 'rest' 'rest' 'hi' 'hi' 'rest' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+134,"['A' 'scene' 'from' 'the' 'Burmese' 'Ramayan' '""' 'Yama' 'Zatdaw' '""'
+ 'Karaweik' ',' 'Yangon' '.' '#HinduismAbroad' 'https://t.co/WuvAsLiQZ8']","['en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest'
+ 'en' 'rest' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+135,"['RT' '@sajaninsan2' ':' '@Gurmeetramrahim' '#MustWatchMSG' 'Pitaji'
+ 'Mere' 'Frnd' 'B.P.' 'Low' 'Ya' 'High' 'Ho' 'Janda' 'H' 'Plz' 'Kuch'
+ 'Dso' '.' 'Te' 'Onu' 'Khush' 'Rakho']","['en' 'rest' 'rest' 'en' 'en' 'hi' 'hi' 'en' 'rest' 'en' 'en' 'en' 'hi'
+ 'rest' 'hi' 'en' 'hi' 'en' 'rest' 'hi' 'rest' 'hi' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+136,"['""' '@saurabhraajjain' ':' 'Aap' 'sabhi' 'ko' 'mahashivratri' 'ki'
+ 'hardik' 'shubhkamnayeein' '....' 'Dev' 'Dev' 'mahadev' 'shiva' '...' '""'
+ 'what' 'its' 'mean' '???' 'Madhav' '...']","['rest' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi'
+ 'rest' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'rest' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+137,"['@jatanacharya' '@sardanarohit' '@ZeeNews' '@ZeeNewsHindi' '#congress'
+ 'khud' 'pareshan' 'hai' 'pm' 'seat' 'k' 'liye' '..' 'isiliye' 'to'
+ 'drama' 'jari' 'h' '....' 'Bhai']","['hi' 'rest' 'en' 'en' 'en' 'hi' 'hi' 'hi' 'rest' 'en' 'hi' 'hi' 'rest'
+ 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+138,"['RT' 'BBSRBuzz' ':' 'Sunabesha' 'aka' '#Golden' 'attire' 'of'
+ 'Akhandalamani' 'on' 'occasion' 'of' '#MahaShivratri' '#Odisha'
+ '#festival' 'http://t.co/GTfhwosc0K']","['en' 'en' 'rest' 'hi' 'hi' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'rest'
+ 'rest' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+139,"['Morey' 'Saiyaan' 'Video' 'Song' 'HD' 'Download' 'by' 'Roots' 'the'
+ 'Band' 'Piya' 'http://t.co/C7ISn4JGcE']",['en' 'hi' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'hi' 'en'],['' '' '' '' '' '' '' '' '' '' '' '']
+140,"['@Lucky_Reyy' 'yar' 'sai' 'baat' 'hai' 'kal' 'pehli' 'dfa' 'teenday'
+ 'khaye' '.' 'Bara' 'he' 'mza' 'aya']","['en' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi'
+ 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+141,"['Yaayy' '!!' 'India' 'won' '...' '#IndvsPak' '.' 'Abhi' 'toh' 'party'
+ 'shuru' 'hui' 'h' 'many' 'more' 'to' 'go' '...' 'la' 'la' 'lalala']","['hi' 'rest' 'rest' 'en' 'rest' 'rest' 'rest' 'hi' 'hi' 'en' 'hi' 'hi'
+ 'hi' 'en' 'en' 'en' 'en' 'rest' 'hi' 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+142,"['@SemperFiUnited' 'its' 'okay' '..' 'Uska' 'matlab' 'mil' 'k'
+ 'samjhaunga']",['en' 'en' 'en' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi'],['' '' '' '' '' '' '' '' '']
+143,"['#MahaShivratri' 'RT' '""' '@IndiaHistorypic' ':' '1949' '::'
+ 'Annamalaiyar' 'Temple' 'of' 'Lord' 'Shiva' ',' 'Thiruvannamalai' ','
+ 'Tamil' 'Nadu' '....' 'http://t.co/zUslTHzPQw' '""']","['rest' 'en' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'en' 'en' 'en'
+ 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+144,"['#KanhaiyaKumar' 'M' 'saying' 'again' '""' 'Jai' ""'"" 'Kanhaiyya' ""'"" ""'""
+ 'Lal' ""'"" 'ki' '""']","['hi' 'en' 'en' 'en' 'rest' 'hi' 'rest' 'hi' 'rest' 'rest' 'hi' 'rest'
+ 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+145,"['AAP' 'suspends' 'Dharamavira' 'Gandhi' 'and' 'Harinder' 'Singh' 'Khalsa'
+ ',' 'both' 'MPs' 'from' 'Punjab' ',' 'for' 'anti-party' 'activities' '-'
+ 'PTI']","['hi' 'en' 'rest' 'rest' 'en' 'en' 'en' 'hi' 'rest' 'en' 'en' 'en' 'rest'
+ 'rest' 'en' 'en' 'en' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+146,"['Mai' 'to' 'kal' 'Sare' 'din' 'Spam' 'karne' 'wali' 'hu' 'Bhai' '..'
+ 'Jisko' 'Problem' 'hai' 'wo' 'jake' 'apni' 'Bhains' 'charaye'
+ '#JustKidding' '#IndvsPak' '#WeWontGiveItBack']","['hi' 'hi' 'hi' 'hi' 'hi' 'en' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'en' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'hi' 'en' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+147,"['#MahaShivRatri' '108' 'Names' 'of' 'Lord' 'Shiva' '35' '.' '-'
+ 'Kailashavasi' '-' 'Native' 'Of' 'Kailasha' '#']","['rest' 'rest' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'rest' 'hi' 'rest' 'en'
+ 'en' 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+148,"['RT' '@RashtrapatiBhvn' ':' '#PresidentMukherjee' 'conferred' 'Padma'
+ 'Vibhushan' 'on' 'famous' 'actor' 'Shri' 'Rajinikanth'
+ 'https://t.co/UOIOjcnkb3']",['en' 'en' 'rest' 'en' 'en' 'rest' 'rest' 'en' 'en' 'en' 'hi' 'rest' 'en'],['' '' '' '' '' '' '' '' '' '' '' '' '']
+149,"['@Soul_Kadhi' '#MahaShivratri' 'agar' 'hamare' 'maa' 'baap' 'ne' 'hamein'
+ 'apne' 'glorious' 'past' 'ke' 'bare' 'mein' 'nahi' 'bataya' '..' 'to'
+ 'ismein' 'hamara' 'koi' 'karoor' 'nahi' '..']","['rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'en' 'en' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+150,"['@mujahid2589' '.' 'Muje' 'to' 'pehle' 'se' 'tere' 'nawabi' 'shok' 'pe'
+ 'doubt' 'tha']",['rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'en' 'hi'],['' '' '' '' '' '' '' '' '' '' '' '']
+151,"['SASURAL' 'SIMAR' 'KA' 'MAHASHIVRATRI' 'SHOOT' 'PROMO'
+ 'http://t.co/O3aQb1bsmq']",['hi' 'hi' 'hi' 'rest' 'en' 'en' 'en'],['' '' '' '' '' '' '']
+152,"['RT' '@Shehzad_Ind' ':' 'Malicious' 'campaign' 'by' 'BJP' ',' 'based'
+ 'on' 'complete' 'lies' ',' 'to' 'tarnish' ""KanishkaSingh's"" 'name'
+ ""Here's"" 'the' 'truthSatyamevaJayate' 'https://']","['en' 'rest' 'rest' 'en' 'en' 'en' 'rest' 'rest' 'en' 'en' 'en' 'en'
+ 'rest' 'hi' 'rest' 'rest' 'en' 'en' 'en' 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+153,"['RT' '@RanbirKUniverse' ':' '[' 'More' 'Pictures' ']' ':' 'Ranbir'
+ 'Kapoor' 'and' 'Deepika' 'Padukone' 'in' 'the' 'Making' 'of' 'Tamasha'
+ '.' 'https://t.co/kJCKyMiAGT']","['en' 'en' 'rest' 'rest' 'en' 'en' 'rest' 'rest' 'rest' 'hi' 'en' 'en'
+ 'en' 'en' 'en' 'en' 'en' 'hi' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+154,"['@Vikramk93943336' '@radhikaa02' '@malli_ranchu' 'bachaaa' 'kon' 'haiii'
+ 'paaajii' 'khudkoo' 'bachaaa' 'bolkeee' 'bacheee' 'ki' 'jaaaan' 'le'
+ 'raheee' 'ho' 'appp']","['rest' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+155,"['Kya' 'nawaz' 'bhai' 'kaisi' 'team' 'bheji' 'hai' '?' 'World' 'cup' 'hai'
+ 'ya' 'mazaak' '!' '#IndvsPak' '#PakvsInd' 'http://t.co/37pT8WfjR0']","['hi' 'hi' 'hi' 'hi' 'en' 'hi' 'hi' 'rest' 'en' 'en' 'hi' 'hi' 'hi' 'rest'
+ 'rest' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+156,"['Aise' 'batein' 'choclate' 'ka' 'daba' 'gift' 'kar' 'k' 'samjhae' 'jati'
+ 'hai' ':p' 'https://t.co/Wwp9fZKasG']",['hi' 'hi' 'hi' 'hi' 'hi' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'en'],['' '' '' '' '' '' '' '' '' '' '' '' '']
+157,"['Who' 'is' 'Sumit' 'of' ""'"" 'Sumit' 'Sambhal' ""Lega'"" '?'
+ 'http://t.co/3LFEYpwDZJ' '0' 'bomb' 'pak' 'army' 'pe' 'fenk' 'dena' '""'
+ 'Modi' ':' '""' 'bas' 'itnisi' 'baat' '??' '""' 'http://t.co/x5tq9qWTjd']","['en' 'en' 'en' 'en' 'rest' 'en' 'hi' 'hi' 'rest' 'en' 'rest' 'en' 'hi'
+ 'en' 'hi' 'hi' 'hi' 'rest' 'rest' 'rest' 'rest' 'hi' 'hi' 'hi' 'rest'
+ 'rest' 'en']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '']"
+158,"['RT' '@coolfunnytshirt' ':' 'JE' 'BAAT' '!' 'RT' '@htShowbiz' ':' 'Mohit'
+ 'Raina' 'celebrates' '#Mahashivratri' 'on' 'sets' 'of' 'Devon' 'Ke' 'Dev'
+ 'Mahadev' 'http://t.co/67vQybpHSF']","['en' 'en' 'rest' 'hi' 'hi' 'rest' 'en' 'en' 'rest' 'en' 'rest' 'en'
+ 'rest' 'en' 'en' 'en' 'en' 'hi' 'hi' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+159,"['Kuch' 'raste' 'badalne' 'honge' ',' 'kuch' 'naye' 'raste' 'khojne'
+ 'honge' ',' ""I'm"" 'convinced' 'we' 'can' 'deliver' 'but' 'we' ""can't""
+ 'deliver' 'overnight' ':' 'Prabhu' '#RailBudget2015']","['hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'en' 'en' 'en'
+ 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+160,"['Ek' 'ek' 'din' 'ka' 'hisab' 'mangati' 'he' 'jindgi' '!' 'Puchho' 'dil'
+ 'se' '@peecee' 'se' '.' '@priyankachopra' 'https://t.co/pm0cItTJxC']","['hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'en' 'hi'
+ 'rest' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+161,"['#RahulOnLeave' 'nahi' 're' 'baba' '..' 'the' 'hashtag' 'is' '#Babatical'
+ ',' 'Sabbatical' 'of' 'Rahul' 'Baba' '#lulz']","['en' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'rest' 'rest' 'en' 'en' 'en'
+ 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+162,"['JV' 'with' 'major' 'public' 'sector' 'companies' 'for' 'meeting'
+ 'requirements' 'of' 'new' 'Railway' 'lines' ':' 'Prabhu'
+ '#RailBudget2015']","['rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest'
+ 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+163,"['@DrKumarVishwas' 'how' 'modi' 'bacame' 'pradhan' 'sevak' 'must' 'watch'
+ 'for' 'u' 'sir' 'get' 'a' 'breathe' 'of' 'relax' ':'
+ 'https://t.co/Ce2mj0T7WP']","['en' 'en' 'rest' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'rest' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+164,"['RT' '@Skgadiwale26' ':' 'Wearing' 'Kirpan' '..' 'my' 'waheguru' 'ji'
+ 'will' 'protect' 'me' 'from' 'evil' 'N' 'negativity' '...'
+ 'https://t.co/ZarYHYJJ3v']","['en' 'hi' 'rest' 'en' 'en' 'rest' 'en' 'hi' 'hi' 'en' 'en' 'hi' 'en' 'en'
+ 'en' 'en' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+165,"['RT' '@Paytm' ':' '200' '*' ',' 'Gwalior' '.' '134' '&' '143' ','
+ 'Sharjah' '.' '175' ',' 'Hyderabad' '.' '98' ',' 'Centurion' '.' '136'
+ ',' 'Chennai' '.' '106' '*' ',' 'Chennai' '.' '241' '*' ',' 'Sydney' '.'
+ 'Happy' 'Birthday' '@sac']","['en' 'en' 'rest' 'rest' 'rest' 'rest' 'en' 'rest' 'rest' 'rest' 'rest'
+ 'rest' 'hi' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'en' 'rest'
+ 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest'
+ 'rest' 'rest' 'en' 'rest' 'en' 'en' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']"
+166,['Joy' 'of' 'Mahashivratri' '...' 'Haar' 'haar' 'Mahadev' '..'],['en' 'en' 'rest' 'rest' 'hi' 'hi' 'rest' 'rest'],['' '' '' '' '' '' '' '']
+167,"['@sureshpprabhu' 'great' 'respite' 'for' 'ppl' 'of' 'N-Bihar' 'with'
+ 'patna-sonepur' 'rlybridge' '.' 'Introduce' 'High' 'speed' 'Stabadi' 'on'
+ 'this' 'route' '.']","['rest' 'en' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'rest' 'en' 'en'
+ 'en' 'rest' 'en' 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+168,"['RT' '@markets' ':' 'Bonds' 'buy' 'time' 'for' 'Arab' 'oil' 'states' 'in'
+ 'for' '$900' 'billion' 'shortfall' 'https://t.co/YEu9q0GJTA' 'via'
+ '@LyubovEmWorld' 'https://t.co/1YjDw']","['en' 'en' 'rest' 'en' 'en' 'en' 'en' 'hi' 'en' 'en' 'en' 'en' 'rest' 'en'
+ 'en' 'en' 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+169,"['@ImRaina' 'U' 'know' ',' 'aaj' 'mera' 'Mahashivratri' 'ka' 'Upwas' '('
+ 'fast' ')' 'hai' '.' 'iss' 'din' 'god' 'shivji' 'se' 'ye' 'mangugi' 'ki'
+ 'aap' 'sirf' 'mere' 'Jeevansathi' 'bane' '.']","['rest' 'en' 'en' 'rest' 'hi' 'hi' 'rest' 'hi' 'en' 'rest' 'en' 'rest'
+ 'hi' 'rest' 'hi' 'hi' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '']"
+170,"['RT' '@pankajshuklabjp' ':' '#1YearofGujCM' '@anandibenpatel' 'propelled'
+ 'young' 'citizens' 'schol' 'chldrn' '2' 'spread' 'msg' '4' 'mass'
+ 'awareness' 'of' 'Swachhta' 'Abhiyan']","['en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'en' 'en'
+ 'en' 'en' 'en' 'en' 'hi' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+171,"['People' 'need' 'help' 'here' '.' 'Where' 'is' 'law' 'where' 'is' 'media'
+ '...' 'why' 'no' 'cabdle' 'march' 'here' '...' 'only' 'for' 'Delhi' 'and'
+ 'kejriwal' '???' 'https://t.co/GwTkCoDAwC']","['en' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'en'
+ 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'hi' 'rest' 'en']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '']"
+172,"[""'"" 'Kanna' 'de' 'vich' 'Gallan' 'Kara' 'Pyar' 'Diya' ""'"" 'Song' 'Lyrics'
+ '-' 'Diljit' 'Dosanjh' 'http://t.co/j3M6oEOc6k' '#' '#MahaShivratri'
+ 'http://t.co/j7N3SzGRc4']","['rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'en' 'en' 'rest' 'en'
+ 'en' 'en' 'rest' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+173,['@VigneshKanda' 'then' 'rajini' 'murugan' 'should' 'be' 'at' '6' ';)'],['rest' 'en' 'rest' 'en' 'en' 'en' 'en' 'rest' 'rest'],['' '' '' '' '' '' '' '' '']
+174,['Itna' 'bada' 'No' 'ball' 'dala' 'pandya' 'ne' 'https://t.co/8ET49fA1qc'],['hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'en'],['' '' '' '' '' '' '' '']
+175,"['@rozzmarrie' '@chetan_bhagat' '@upadhyaysbjp' '@upadhyayumesh' 'this'
+ 'chamcha' 'akways' 'has' 'a' 'nontreatable' 'verbal' 'diarrhoea' '!!']",['en' 'hi' 'rest' 'en' 'en' 'hi' 'hi' 'hi' 'hi' 'en' 'en' 'en' 'rest'],['' '' '' '' '' '' '' '' '' '' '' '' '']
+176,"['Rahul' '""' 'mukth' 'bharath' '""' 'is' 'good' 'for' 'India'
+ '#WhereIsRahul']",['en' 'rest' 'en' 'rest' 'rest' 'en' 'en' 'en' 'rest' 'rest'],['' '' '' '' '' '' '' '' '' '']
+177,"['@iamsrk' '@Varun_dvn' '@kritisanon' 'Shah' 'ka' 'ek' 'comment' 'aur'
+ 'media' 'walle' 'peeche' 'bhaage' ',' 'waise' 'hee' 'mere' 'manwa' 'mai'
+ 'emotions' 'jaage' ';)']","['rest' 'en' 'en' 'hi' 'hi' 'hi' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'en' 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+178,"['First' 'Look' 'Of' 'Anushka' 'Sharma' 'In' 'Sultan'
+ 'https://t.co/ObqxsJaP1E']",['en' 'en' 'en' 'hi' 'rest' 'en' 'en' 'en'],['' '' '' '' '' '' '' '']
+179,"['I' 'am' 'bad' 'at' 'twitter' ',' 'but' 'I' 'am' 'not' 'a' 'quitter' '.'
+ 'Ganda' 'waala' 'addict' 'ban' 'ke' 'hi' 'deactivate' 'karunga' '.'
+ 'Yours' 'sincerely' ',' 'Desi' 'Vella' '!']","['en' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'hi'
+ 'hi' 'en' 'hi' 'hi' 'hi' 'en' 'hi' 'rest' 'en' 'en' 'rest' 'hi' 'rest'
+ 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '']"
+180,"['@LCFC' 'fairytale' '!' 'Deserved' 'every' 'bit' 'of' 'it' '!'
+ 'Congratulations' 'Champions' '!']",['en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'rest'],['' '' '' '' '' '' '' '' '' '' '' '']
+181,"['Havana&Japa' 'On' 'The' 'Eve' 'Of' '#Mahashivratri' 'At' 'Omkareshwar'
+ 'Jyotirlinga' '.' 'http://t.co/iz677opkDD' 'via' '@AshramSewaTeam']",['rest' 'en' 'en' 'en' 'en' 'rest' 'en' 'hi' 'en' 'rest' 'en' 'en' 'en'],['' '' '' '' '' '' '' '' '' '' '' '' '']
+182,"['#IndvsPak' 'Lagatar' '6' '#WC' 'se' 'TV' 'todte' 'aa' 'rahe' 'h'
+ 'hahahaha' '....']",['rest' 'rest' 'rest' 'rest' 'hi' 'en' 'en' 'hi' 'hi' 'hi' 'rest' 'rest'],['' '' '' '' '' '' '' '' '' '' '' '']
+183,"['RT' '@itisprashanth' ':' '#Theri' 'collection' 'update' ':' 'Coimbatore'
+ 'distributor' 'share' '-' '9C' '.' 'Trichy' 'distributor' 'share' '-'
+ '6C' '.' 'Next' 'to' 'Endhiran' '.' 'Beats' 'thu']","['en' 'en' 'rest' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'rest' 'rest'
+ 'rest' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'en' 'hi' 'rest' 'rest' 'en'
+ 'hi']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '']"
+184,"['@Gurmeetramrahim' 'MSGMissionHumanity' 'Aadiguru' 'ki' 'jai' '..'
+ 'aadiguru' 'sadiyon' 'baad' 'hame' 'Mila' '.' 'Dhan' 'dhan' 'satguru'
+ 'tera' 'hi' 'aasra' '.']","['en' 'en' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+185,"['Great' 'start' 'to' 'a' 'weekend' '!' 'Samode' 'Palace' 'Jaipur' ','
+ 'Rajasthan' 'India' '#beautiful' '#himalayas' '#india'
+ 'https://t.co/Cw3m2ZStBp']","['en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest'
+ 'en' 'rest' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+186,"['RT' '@Saj_PakPassion' ':' 'PCB' 'confirms' 'that' 'Intikhab' 'Alam'
+ 'will' 'be' 'the' 'team' 'manager' 'for' ""Pakistan's"" 'tour' 'of'
+ 'England' '#Cricket' '#EngvPak']","['en' 'rest' 'rest' 'rest' 'en' 'en' 'hi' 'hi' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'rest' 'en' 'en' 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+187,"['RT' '@DineshGhodke' ':' '#AnnaReturns' 'in' 'Marathi' 'translates' 'as'
+ '#ParatAnna' '.' 'Then' 'the' 'question' 'arises' ""'"" 'kaay' ""aanu'"" '?'
+ 'A' ':' 'Rahul' '.' '#RahulOnLeave']","['en' 'hi' 'rest' 'rest' 'en' 'hi' 'en' 'en' 'rest' 'rest' 'en' 'en' 'en'
+ 'en' 'rest' 'hi' 'rest' 'rest' 'rest' 'rest' 'en' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+188,"['#BecauseOfBabri' 'Hindu' 'realized' 'their' 'life' 'value' 'for'
+ 'secularism' '..']",['rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'rest'],['' '' '' '' '' '' '' '' '']
+189,"['RT' '@SameerAllana' ':' '@avinaSHarma10' 'you' 'forgot' 'Nehra' ','
+ 'Sreesanth' 'and' 'Chawla' ':(']",['en' 'rest' 'rest' 'rest' 'en' 'en' 'rest' 'rest' 'en' 'en' 'rest' 'rest'],['' '' '' '' '' '' '' '' '' '' '' '']
+190,"['#WhereIsRahul' 'India' 'walon' 'ko' 'maaf' 'kardo' '..' 'Wapis' 'nahi'
+ 'ana' '...' 'Mom' 'ya' 'Jiju' 'ko' 'bol' 'Ke' 'Italy' 'main' 'koi'
+ 'business' 'set' 'karva' 'lijiye' '...' 'Try' 'something' 'new']","['rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'rest' 'en' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'en' 'hi' 'hi' 'en' 'hi' 'hi' 'hi' 'rest' 'en' 'en'
+ 'en']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '']"
+191,"['He' 'Ishwar' '.' 'Maney' 'Jer' 'Pachaav' 'Va' 'Ni' 'Ane' 'Amrut' 'Jirav'
+ 'Va' 'Ni' 'Shakti' 'De' '.' '#MahaShivratri' 'greetings' 'to' 'all' '.'
+ 'http://t.co/tYHQoRgCsE']","['hi' 'hi' 'rest' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'en' 'rest' 'hi' 'hi' 'hi'
+ 'hi' 'rest' 'rest' 'en' 'en' 'en' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+192,"['RT' '@HDL_Global' ':' 'Via' '""' '@AbhaySDube' ':' '#' '-' 'Bhagvan'
+ 'Shiv' 'ke' 'saathiyon' 'ko' 'bhi' 'pranaam' 'kijiye' '.'
+ '#Mahashivratri' 'greetings' 'to' 'all' '!' 'http://t' '.']","['en' 'rest' 'rest' 'rest' 'rest' 'hi' 'rest' 'rest' 'rest' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest' 'en' 'en' 'en' 'rest' 'en' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '']"
+193,"['RT' '@SportsCenter' ':' 'Shaq' 'challenged' 'Kobe' 'last' 'night' '...'
+ 'and' 'of' 'course' ',' 'Kobe' 'rose' 'to' 'the' 'occasion' '.' '(' 'via'
+ '@Rachel__Nichols' ')' 'https://t.co/eIWM4elO']","['en' 'en' 'rest' 'hi' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'rest'
+ 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'rest' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+194,"['Bum' 'Bhole' 'Bhole' '-' 'Surendra' 'Bihari' 'Goswami' '&' 'Devendra'
+ 'Bihari' 'Goswami' '||' 'Full' 'Bhajan' ':' 'https://t.co/bUBGUjtpcH'
+ 'via' '@YouTube']","['hi' 'hi' 'hi' 'rest' 'rest' 'hi' 'en' 'rest' 'rest' 'hi' 'en' 'rest'
+ 'en' 'hi' 'rest' 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+195,"['PIB_India' ':' 'Inviting' 'your' 'suggestions' 'on' 'forthcoming'
+ '#RailBudget2015' 'http://t.co/XzdwX3vQz3' 'RailMinIndia'
+ '#IndianRailways' '#sitaramthakare' '#bjp']","['rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'hi'
+ 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '']
+196,"['RT' '@LOLendraSingh' ':' 'People' 'saying' 'Gujarat' 'Lions' 'acquired'
+ 'core' 'team' 'of' 'CSK' 'by' 'getting' 'Raina' ',' 'Baz' ',' 'Bravo' ','
+ 'Smith' ',' 'Jadeja' '.' 'Folks' '!' 'MS' 'Dhoni' 'IS' 'cs']","['en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'en' 'rest' 'rest' 'rest' 'en'
+ 'rest' 'rest' 'hi' 'en' 'en']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '' '' '']"
+197,"['Mahashivratri' 'celebrations' 'at' 'Brahmakumari' 'park' ',' 'Nerul' ','
+ 'Navi' 'Mumbai']",['rest' 'en' 'en' 'rest' 'en' 'rest' 'en' 'rest' 'rest' 'rest'],['' '' '' '' '' '' '' '' '' '']
+198,"['RT' '@KavitaaSinghh' ':' 'Bazaaru' 'surveys' 'par' 'sawaal' 'khadey'
+ 'kiye' '.' 'An' 'nateezon' 'par' 'kya' 'bolenge' 'modi' '??' 'Grossly'
+ 'underestimatd' 'd' 'mind' 'n' 'mood' 'of' 'delhi']","['en' 'rest' 'rest' 'rest' 'en' 'hi' 'hi' 'hi' 'hi' 'rest' 'en' 'en' 'hi'
+ 'hi' 'hi' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '']"
+199,"['@i_KiranBukhari' 'Krishna' '(' 'Future' ')' 'ki' 'Dua' 'di' 'he'
+ 'Bacha&Today' 'is' '#MahaShivratri' 'and' 'krishna' 'g' 'kehte' 'hn' 'Is'
+ 'din' 'Varat' 'krne' 'se' 'Acha' 'Pati' 'mlta' 'he']","['rest' 'rest' 'rest' 'en' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest'
+ 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '']"
+200,"['RT' '@skjbolly' ':' 'whatever' 'I' 'do' 'Ill' 'maintain' 'the' 'dignity'
+ 'of' 'my' 'part' 'as' 'Mahadev' ':' '#MohitRaina' '#devonkedevmahadev'
+ 'http://t.co/QDSWmHBOQB']","['en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'rest' 'rest' 'rest' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+201,"['@yrf' '1' ')' 'Tujhe' 'dekha' 'to' 'ye' 'Jana' 'sanam-DDLJ' '2' ')'
+ 'Main' 'yaha' 'hoon-' 'veer' 'zaara' '3' ')' 'Chand' 'ne' 'kuch' 'kaha-'
+ 'DTPH' '#SRKkaFAN']","['hi' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest' 'rest' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+202,"['@anandibenpatel' '@BJPGujarat' 'Thank' 'you' 'dear' 'Madam' 'for'
+ 'giving' 'us' 'beautuful' 'gift' 'of' 'K' '.' 'K' '.' 'Nagar' '""' 'RCC'
+ 'road' '""' '(' 'Ghatlodia' ')' ',' 'its' 'a' 'line' 'of' 'Growth' '!!']","['rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'hi'
+ 'rest' 'hi' 'rest' 'hi' 'rest' 'rest' 'en' 'rest' 'rest' 'rest' 'rest'
+ 'rest' 'en' 'en' 'en' 'en' 'en' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '' '' '' '']"
+203,"['#Happy' '#MahaShivratri' 'to' '#Everyone' 'feeling' 'Hara' 'Hara'
+ 'Mahadev']",['rest' 'rest' 'en' 'en' 'en' 'hi' 'hi' 'rest'],['' '' '' '' '' '' '' '']
+204,"['RT' '@sureshnakhua' ':' '#MahaShivRatri' '108' 'Names' 'of' 'Lord'
+ 'Shiva' '76' '.' '-' 'Mahasenajanaka' '-' 'Father' 'Of' 'Kartikya' '#']","['en' 'rest' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'rest' 'rest' 'rest'
+ 'rest' 'rest' 'rest' 'en' 'en' 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+205,"['@imjadeja' 'sirji' 'aap' 'toh' 'cha' 'gaye' '!!' 'Kya' 'khela' 'apne'
+ '!!' 'Proud' 'of' 'you' '#IndvsPak']","['rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'rest' 'en' 'en'
+ 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+206,['Happy' 'Maha' 'Shivratri' '...' 'Om' 'Namah' 'Shivavye' '#MahaShivratri'],['en' 'hi' 'rest' 'rest' 'rest' 'rest' 'en' 'rest'],['' '' '' '' '' '' '' '']
+207,"['#modi' 'saying' 'sholay' 'dialogue' '""' 'yeh' 'rahulbaba' 'kaha' 'hai'
+ 'bhai' '""' '#RahulOnLeave' 'http://t.co/MFB5utZh3M' '""']","['rest' 'en' 'en' 'en' 'rest' 'hi' 'rest' 'hi' 'hi' 'hi' 'rest' 'en' 'en'
+ 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+208,"['RT' 'AAP_Najafgarh' '""' 'RT' 'HasanSafin' ':' 'Disgusting' '!' 'BJP'
+ 'MP' 'Vitthal' 'Radadiya' 'from' 'Gujarat' 'kicks' 'an' 'old' 'man' 'in'
+ 'a' 'public' 'p' 'https://t.co/cjd7LXE4JR' '""']","['en' 'hi' 'rest' 'en' 'en' 'rest' 'en' 'rest' 'rest' 'rest' 'en' 'en'
+ 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+209,"['@raghav_chadha' 'Beta' 'confront' 'ka' 'bahut' 'shauk' 'hai' 'na' '.'
+ 'sochte' 'ho' 'tumhaare' 'alawa' 'sab' 'chor' 'hai' '?' 'Ab' '5' 'saal'
+ 'tak' 'confront' 'hi' 'hoga' '.' 'Le' 'lo' 'apni']","['hi' 'hi' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'rest' 'hi' 'rest' 'hi' 'hi' 'en' 'hi' 'hi' 'rest' 'hi' 'hi'
+ 'hi']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '']"
+210,"['@Gurmeetramrahim' '#MustWatchMSG' 'Thank' 'you' 'papaji' 'bhut' 'ghant'
+ 'lage' 'rahe' 'ho']",['en' 'en' 'en' 'en' 'en' 'hi' 'hi' 'hi' 'hi' 'hi'],['' '' '' '' '' '' '' '' '' '']
+211,"['Audio' ':' 'Astrologer' 'Sidharth' 'On' 'Mahashivratri' 'with' 'RJ'
+ 'Rohit' 'as' 'big' 'jyotish' 'guru' '@' '92.7' 'Big' 'FM'
+ 'http://t.co/D4hOflTD78']","['hi' 'rest' 'en' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en'
+ 'rest' 'rest' 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+212,"['Ek' 'Aur' 'watching' 'items' 'at' 'Qutub' 'Minar'
+ 'https://t.co/c4rHmwPLwF']",['hi' 'hi' 'en' 'en' 'en' 'en' 'en' 'en'],['' '' '' '' '' '' '' '']
+213,"['Wht' 'is' '#Budget2015' 'Agar' 'Ache' 'Din' 'Ase' 'hote' 'hai' 'to'
+ 'Hume' 'Bure' 'Din' 'Me' 'rahene' 'dete' '.']","['en' 'en' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+214,"['RT' '@iVeronicaDani' ':' 'Lets' 'see' 'what' 'SureshPrabhu' 'has' 'in'
+ 'store' 'for' 'railways' '.' 'Ab' 'Prabhu' 'bharose' 'railways'
+ 'saathiyoon' '.' '#RailBudget2015' '#PrabhuKi']","['en' 'rest' 'rest' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'rest'
+ 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+215,"['@Gurmeetramrahim' '#MSGdedicatesAwardToGuruji' 'wow' 'congratulations'
+ 'guru' 'ji']",['en' 'en' 'en' 'en' 'hi' 'hi'],['' '' '' '' '' '']
+216,"['#RailBudget2015' 'plz' 'PRABHU' '1' ',' '2' 'memo' 'train' 'for' 'LKO'
+ 'TO' 'ALD' 'vie' 'UNCHAHAR']","['en' 'en' 'rest' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+217,"['Boys' 'are' 'boys' ';' 'will' 'make' 'mistakes' 'like' 'rape' ','
+ 'murder' 'drugs' '.' 'Now' 'you' 'imagine' 'Mulayam' 'is' 'a' 'boy' ';'
+ 'raping' '&' 'murdering' 'the' 'national' 'fabric']","['en' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'rest'
+ 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'en' 'rest' 'en' 'en' 'en' 'en']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '']"
+218,"['Deepika' 'Padukone' 'finds' 'a' 'new' 'admirer' 'in' 'the' 'Hollywood'
+ 'hairstylist' 'Adir' 'Abergel' ':' 'There' 'is' 'hardly' '...'
+ 'https://t.co/mgl35cioT7' '#TheIrfanism']","['rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest'
+ 'en' 'en' 'en' 'rest' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+219,"['@Gurmeetramrahim' 'Plz' 'bless' 'me' 'pita' 'ji'
+ 'https://t.co/VpoLcYQ58H']",['en' 'en' 'en' 'hi' 'hi' 'hi' 'en'],['' '' '' '' '' '' '']
+220,"['@pawandixit8' '@sanjaynirupam' '@khan' 'Nirupam' 'sahab' '!' 'Agla'
+ 'congress' 'darshan' 'kab' 'karva' 'rahe' 'hai' '?' 'Ab' 'to'
+ '@OfficeOfRG' 'bhi' 'vapas' 'aaye' 'hai' '.' 'Once' 'more' '!']","['rest' 'rest' 'rest' 'rest' 'hi' 'rest' 'hi' 'en' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'rest' 'hi' 'hi' 'en' 'hi' 'hi' 'hi' 'hi' 'rest' 'en' 'en' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '']"
+221,"['Rudrabhishek' 'on' 'Mahashivratri' 'at' 'Sandipani' '.'
+ 'http://t.co/AJhNEhEY1Q']",['rest' 'en' 'en' 'en' 'rest' 'rest' 'rest'],['' '' '' '' '' '' '']
+222,"['RT' '@AroraInsansagar' ':' '@Gurmeetramrahim'
+ '#MSGdedicatesAwardToGuruji' 'Congratulation' 'guru' 'ji' '.' 'majja'
+ 'aa' 'gya' 'main' 'to' 'chahta' 'hun' 'Guru' 'ji' 'Bharat' 'Rat']","['en' 'rest' 'rest' 'en' 'en' 'en' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+223,"['Sudhu' 'Tomar' 'Jonno' 'Bangla' 'Music' 'Video' 'HD' 'Download' 'By'
+ 'Dhrubo' '(' '2014' ')' 'http://t.co/IAoDD5lsrq']","['hi' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest'
+ 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+224,"['@Gurmeetramrahim' '@samachar_plus' 'Every' 'souls' 'only' 'U' 'guruji'
+ 'love' 'charger' '#HeroNo1BRR']",['en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en'],['' '' '' '' '' '' '' '' '' '']
+225,"['RT' '@DesiOptimystic' ':' '@rahulroushan' 'My' 'sources' 'tell' 'me'
+ 'that' 'Arvind' 'Kejriwal' 'and' 'Rahul' 'Gandhi' 'had' 'a' 'secret'
+ 'meeting' 'with' 'Rajdeep' 'and' 'Barkha' 'to']","['en' 'en' 'rest' 'en' 'en' 'en' 'en' 'hi' 'en' 'en' 'en' 'en' 'en' 'rest'
+ 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'hi' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+226,"['Kal' 'Mahashivratri' 'tweet' 'karoge' 'waise' '@TheKaranPatel' '?' '*'
+ 'runs' 'away' '*']",['hi' 'rest' 'en' 'hi' 'hi' 'rest' 'rest' 'rest' 'en' 'en' 'rest'],['' '' '' '' '' '' '' '' '' '' '']
+227,"['tanhai' 'me' 'fariyad' 'to' 'kar' 'sakta' 'hon' 'virane' 'ko' 'abad'
+ 'to' 'kar' 'sakta' 'hon' 'jb' 'chahon' 'tumhe' 'mil' 'nai' 'skata'
+ 'lekin' 'jb' 'chahon' 'tumhe' 'yard' 'to' 'kar' 'skata' 'hon']","['hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '' '']"
+228,"['RT' '@hankypanty' ':' '#SultanTeaser' 'is' 'quite' 'cool' '.' 'Sallu'
+ 'as' 'a' 'North' 'Indian' '.' 'With' 'swag' '.' 'And' ',' 'moonch' '.'
+ 'Basically' ',' 'Chulbul' 'Pandey' 'in' 'a' 'chaddi' '.' 'https' ':']","['en' 'en' 'rest' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'rest'
+ 'rest' 'en' 'en' 'rest' 'en' 'rest' 'rest' 'rest' 'en' 'rest' 'en' 'en'
+ 'en' 'hi' 'hi' 'rest' 'en' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '' '' '' '']"
+229,"['@humistry' '@shutUpPlis' 'ohhh' 'samee' 'hii' 'hoiee' 'na' 'phirr' 'to'
+ 'life']",['en' 'en' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'en'],['' '' '' '' '' '' '' '' '' '']
+230,"['Hey' 'Jai' 'Jai' 'Shiv' 'Shankar' 'Kaanta' 'Lage' 'Na' 'Kankar' ',' 'Ke'
+ 'Fast' 'Tere' 'Naam' 'Ka' 'Rakha' '!' ':)' 'Happy' 'Maha' 'Shivratri' ','
+ 'Folks' '!' '#Mahadev' '#Parvati' '#MahaShivratri']","['hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'en' 'hi' 'hi'
+ 'hi' 'hi' 'rest' 'rest' 'en' 'hi' 'rest' 'rest' 'en' 'rest' 'rest' 'rest'
+ 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '']"
+231,"['RT' '@iHrithik' ':' 'This' 'housefull3' 'trailer' 'is' 'mad'
+ '#iwanaWatch' '!' 'Bravo' '@akshaykumar' '@Riteishd' '@NargisFakhri'
+ '@Asli_Jacqueline' '@juniorbachchan' 'inspir']","['en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'hi' 'en'
+ 'hi' 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+232,"[':' 'LAST' 'NIGHT' 'MAHASHIVRATRI' 'RUDRABHISHEK' '.....' 'Nau' 'grah'
+ ',' 'Gauri' 'Ganesh' 'and' 'anya' 'devi' 'devta' 'isthapna'
+ 'http://t.co/zpVTULda1v']","['rest' 'en' 'en' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'hi' 'en' 'en'
+ 'hi' 'hi' 'hi' 'hi' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+233,"['BC' '...' 'Dimaag' 'karab' 'ho' 'gya' '...' 'Aaj' 'ABD' 'nhi' 'yaar'
+ '.....' 'bas' 'kar' 'bhai' 'ab' '..!!' 'IndvsSa']","['rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi'
+ 'hi' 'hi' 'hi' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+234,['Masala' 'Chaas' '....' 'One' 'glass' 'is' 'not' 'enough'],['hi' 'hi' 'rest' 'en' 'en' 'en' 'en' 'en'],['' '' '' '' '' '' '' '']
+235,"['HappY' 'MahaSHivRatrI' 'DostO' ':)' 'bhang' 'pijiye' 'or' 'anand'
+ 'utaiye' ':)' '@sunshyngurl' '@pkavita491' '@NikkiSran' '@I_M_Miss_Cool'
+ '@komalsihani147k']","['en' 'en' 'en' 'rest' 'rest' 'hi' 'hi' 'en' 'hi' 'rest' 'en' 'rest'
+ 'rest' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+236,"['Har' 'Har' 'Mahadev' '""' '@KalrajMishra' ':' 'Aap' 'abhi' 'ko'
+ 'Mahashivratri' 'ki' 'hardik' 'shubhkamnayein' '...' 'Wish' 'you' 'all'
+ 'a' 'very' 'Happy' 'Mahashivratri' '!!!' '""']","['hi' 'hi' 'rest' 'rest' 'rest' 'rest' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi'
+ 'hi' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+237,['@Banarasi8' 'haan' 'phir' 'toh' 'tm' 'kbhi' 'nhi' 'Jane' 'wale'],['rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'],['' '' '' '' '' '' '' '' '']
+238,"['Rahul0' '""' 'mukth' 'bharath' '""' 'is' 'good' 'for' 'India'
+ '#WhereIsRahul']",['rest' 'rest' 'en' 'rest' 'rest' 'en' 'en' 'en' 'rest' 'rest'],['' '' '' '' '' '' '' '' '' '']
+239,"['@khaana_khaaya' 'haha' 'shukriya' 'bhai' ',' 'aur' 'aisa' 'isliye' 'h'
+ 'kyuki' 'aap' 'log' 'hamare' 'takkar' 'me' 'kisi' 'ko' 'khada' 'hi'
+ 'nahi' 'rehne' 'dete' ':D' '<3']","['hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+240,"['RT' '@CricketNDTV' ':' '#WT20' ':' 'Virat' 'Kohli' 'and' 'Dwayne'
+ 'Bravo' 'are' 'indulging' 'in' 'some' 'banter' '.' 'Both' 'are' 'going'
+ 'after' 'each' 'other' '#IndvsWI' 'https://t.co/qK']","['en' 'en' 'rest' 'rest' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+241,"['RT' '@bjymlck' ':' '@meera_ET' '@Suparna_Singh' '@ndtv' 'hve' 'u' 'ever'
+ 'been' 'to' 'Hinjewadi' '?' 'I' 'live' 'n' 'work' 'here' '.' 'D' 'kind'
+ 'of' 'mayhem' 'dis' 'local' 'gaonwalas' 'hve' 'sprd']","['en' 'en' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'hi' 'hi' 'rest'
+ 'en' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'en']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '']"
+242,"['Open' 'Challenge' 'to' 'PM' '#NarenderModi' ':' 'Muslim' 'Slaughtering'
+ 'Cattles' 'head' 'and' 'Challenging' 'Modi' 'Ji' 'to' 'stop' 'Cow' '...'
+ 'https://t.co/ZUQ8AX2qZn']","['en' 'en' 'hi' 'rest' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'hi' 'hi' 'en' 'en' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+243,"['RT' '@rameshchahal' ':' '@Gurmeetramrahim' '#MSG2In505crOn200thDay'
+ 'Maltb' 'saf' 'h' 'ki' 'Online' 'Gurukul' 'to' 'fir' 'hjaro' 'crs' 'me'
+ 'jayegi' '.....' 'its' 'a' 'big' 'proud' 'f']","['en' 'hi' 'rest' 'en' 'en' 'en' 'en' 'hi' 'hi' 'en' 'en' 'hi' 'hi' 'hi'
+ 'en' 'hi' 'hi' 'rest' 'en' 'en' 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+244,"['RT' '@FilmyKeeday' ':' 'French' 'toast' 'ye' 'sirf' 'India' 'me' 'milta'
+ 'hai' '..' '#Queen' 'https://t.co/6LpdlCAe2Z']","['en' 'en' 'rest' 'en' 'en' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'rest' 'en'
+ 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+245,"['@KhalidSRKFan' 'Aankh' 'mat' 'maar' 'saale' '..' 'Rajesh' 'Khanna' 'mar'
+ 'gaya' 'tha' 'wo' 'picture' 'mein' '...' ':P' 'Ab' 'tera' 'kya' 'hoga'
+ 'KHALYA' '..??']","['hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'en'
+ 'hi' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+246,"['Awaara' 'bhanwre' '....' 'childhood' 'fav' 'song' '#Sapney' '#Kajol'
+ '#Prabhudeva']",['hi' 'hi' 'rest' 'en' 'en' 'en' 'en' 'rest' 'rest'],['' '' '' '' '' '' '' '' '']
+247,"['Koi' 'time' 'yha' 'an' 'bhi' 'live' '#score' 'update' 'karte' 'thhe'
+ '#IndvsPak']",['hi' 'en' 'hi' 'hi' 'hi' 'en' 'en' 'en' 'hi' 'hi' 'rest'],['' '' '' '' '' '' '' '' '' '' '']
+248,"['Meri' 'baccha' 'party' 'kaha' 'gayi' '?' 'Hum' 'thore' 'gayab' 'kya'
+ 'hue' 'tum' 'sab' 'Mr' 'India' 'bann' 'gaye' 'bole' 'toh' 'gayab']","['hi' 'hi' 'en' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'rest' 'rest' 'hi' 'hi' 'hi' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+249,['Har' 'Har' '#Mahadev' '!' 'Om' 'Namah' 'Shivaya' '!' '#MahaShivratri'],['hi' 'hi' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest'],['' '' '' '' '' '' '' '' '']
+250,"['#RT' '&' 'Share' '.' '#NITSrinagar' '@MenInBlueDvotee' '@AakankshaCharu'
+ '@BJP4India' '@Ra_THORe' 'Courtesy' ':' 'Yogeshwar' 'Dutt'
+ 'https://t.co/0THNfFpSBa']","['rest' 'rest' 'en' 'rest' 'rest' 'en' 'hi' 'rest' 'en' 'en' 'rest' 'en'
+ 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+251,"['@ArvindKejriwal' 'Aap' 'ko' 'bhi' 'Shubh' 'Mahashivratri' '.' 'Om'
+ 'Namo' 'SHIVAYA' '.' 'Om' 'Namo' 'SHIVAYA']","['en' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest'
+ 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+252,['#NowPlaying' 'kitney' 'bechain' 'ho' 'k' 'main' 'tumse' 'mila'],['en' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'],['' '' '' '' '' '' '' '']
+253,"['Yahaa' 'to' 'har' 'koi' 'ek' 'lesson' 'jindagi' 'ka' 'seekha' 'jaata'
+ 'hai' 'https://t.co/R4qi2Aj0qc']",['hi' 'hi' 'hi' 'hi' 'hi' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest'],['' '' '' '' '' '' '' '' '' '' '' '']
+254,"['Aloha' 'Kriti' ',' ""what's"" 'the' 'secret' 'behind' 'your' 'beautiful'
+ 'Aakriti' '??' '#AskKriti' '@kritisanon']","['hi' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'hi' 'rest' 'rest'
+ 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '']
+255,"['@IndiaFinger' 'thanks' 'bud' '.' 'Meko' 'bhi' 'ye' 'madam' 'k' 'phaltu'
+ 'tweet' 'par' 'likhna' 'tha' 'par' 'bade' 'bhari' 'words' 'ni' 'milre'
+ 'thee']","['en' 'en' 'en' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'en' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'en' 'hi' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+256,"['kaali-peelis' 'VS' 'Uber' '/' 'Ola' '...' 'Adapt' 'or' 'Perish' '!'
+ '#mantra' '#mumbai' 'https://t.co/ECbnlwlgnb']","['hi' 'rest' 'en' 'rest' 'rest' 'rest' 'en' 'hi' 'rest' 'rest' 'rest'
+ 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '']
+257,"['RT' '@mangeshkarlata' ':' 'Kollam' 'ke' 'mandir' 'mein' 'hui'
+ 'durghatna' 'ki' 'khabar' 'sunke' 'mujhe' 'bahut' 'dukh' 'hua' '.' 'Is'
+ 'agni' 'pralaya' 'mein' 'jinke' 'pran' '(' 'cont' ')' 'https' ':']","['en' 'rest' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'en' 'rest'
+ 'en' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '']"
+258,"['Congrats' 'Team' 'India' '!!!' 'Is' 'baar' 'bhi' '#INDIA' 'hi' 'patakhe'
+ 'phodega' '!!!' '#BleedBlue' '#IndvsPak' '#CWC15' '#WeWontGiveItBack' '#']","['en' 'en' 'rest' 'rest' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'rest' 'en'
+ 'rest' 'rest' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+259,"['RT' '@OneTipOneHand_' ':' 'Beta' 'kuch' 'bhi' 'kar' 'lo' '.' 'Trend'
+ 'toh' '#Feb10WithArnab' 'hi' 'hoga' 'Rt' '""' '@HeadlinesToday' ':'
+ '@chetan_bhagat' '@sardesairajdeep' 'The' 'hash']","['en' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'en' 'hi' 'hi' 'hi'
+ 'hi' 'en' 'rest' 'en' 'rest' 'hi' 'en' 'en' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+260,"['Ambani' 'ne' 'weight' 'loss' 'liya' 'hai' 'ya' 'Won' 'paramvir' 'chakra'
+ '....' 'Every1' 'is' 'having' 'pic' 'with' 'him' '....'
+ 'https://t.co/lGHS2yN8Ik']","['hi' 'hi' 'en' 'en' 'hi' 'hi' 'hi' 'en' 'en' 'hi' 'rest' 'en' 'en' 'en'
+ 'en' 'en' 'en' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+261,"['Mahashivratri' 'special' 'episode' '.' 'Har' 'Har' 'Mahadev'
+ '#JayMalhar' 'http://t.co/davfVydMwc']",['rest' 'en' 'en' 'rest' 'hi' 'hi' 'rest' 'rest' 'en'],['' '' '' '' '' '' '' '' '']
+262,"['RT' '@authoramish' ':' 'What' 'a' 'finish' 'by' 'Dhoni' '!' 'And'
+ 'brilliant' 'batting' 'earlier' 'by' 'Dhawan' 'and' 'Kohli' '!'
+ 'Congratulations' 'India' '!' ':-)' '#AsiaCupT20Final' '#In']","['en' 'en' 'rest' 'en' 'en' 'en' 'en' 'hi' 'rest' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'en' 'rest' 'rest' 'en' 'rest' 'rest' 'rest' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+263,"['@arunjaitley' 'service' 'tax' 'badha' 'diya' 'sir' '??' 'Chalo' 'jaise'
+ 'aap' 'chaho' '!!!']",['hi' 'en' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest'],['' '' '' '' '' '' '' '' '' '' '' '']
+264,"['RT' '@MahyMahinaz' ':' '#DelhiDecides' '#vote' 'for' 'mina' 'ataa' 'plz'
+ 'http://t.co/OFSBtm3rQ9' 'http://t.co/N7cxLCnOk0' '""' '#MinaAttaKingdom']",['en' 'rest' 'rest' 'en' 'en' 'en' 'hi' 'hi' 'en' 'en' 'en' 'rest' 'rest'],['' '' '' '' '' '' '' '' '' '' '' '' '']
+265,"['Shahid' 'Afridi' 'ki' 'Vidai' 'par' 'ek' 'sher' 'arz' 'hai' '..' 'Khub'
+ 'Dekhi' 'teri' 'shakal' '..' 'Khub' 'Dekhi' 'teri' 'shakal' '..' 'Chal'
+ ',' 'Ab' 'Nikal' '!!!!' '#IndvsPak']","['en' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi'
+ 'rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'rest' 'hi' 'hi' 'rest' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '']"
+266,"['RT' '@Shivamarora__' ':' 'Tu' 'hain' 'par' 'nahi' '..' 'Tera' 'ehsaas'
+ 'hote' 'hue' 'bhi' 'nahi' '..' 'Tum' 'ik' 'gorak' 'dhandha' 'ho' '!'
+ 'Mahashivratri' 'to' 'all' '..' '@YashrajKarnwal']","['en' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'rest' 'hi' 'hi' 'rest' 'hi' 'hi' 'rest' 'rest' 'en' 'en' 'rest'
+ 'hi']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '']"
+267,"['Karpur' 'gauram' 'karunavtaaram' 'Sansar' 'saaram' ',' 'bhujgendra'
+ 'haaram' '!!' 'May' 'lord' 'shiva' 'bless' 'u' 'all' '!!' 'Har' 'har'
+ 'mahadev' '#MahaShivratri']","['hi' 'hi' 'hi' 'hi' 'rest' 'rest' 'rest' 'rest' 'rest' 'en' 'en' 'en'
+ 'en' 'en' 'en' 'rest' 'hi' 'hi' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+268,"['RT' '@DaarubaazMehta' ':' 'MCD' 'ruled' 'by' 'BJP' 'in' 'Delhi' 'is'
+ 'giving' 'salaries' 'to' '22000' 'non-existing' 'persons'
+ '#BJPKaMCDKachra' 'http://t.co/t8Y5bhftKL']","['en' 'hi' 'rest' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'hi' 'hi'
+ 'rest' 'en' 'en' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+269,"['Om' 'Namah' 'Shivaay' '!' 'Bam' 'Bam' 'Bam' 'Om' 'Namah' 'Shivaay' '!'
+ 'Such' 'a' 'joyous' 'night' '!' '#MahaShivratri']","['rest' 'rest' 'hi' 'rest' 'hi' 'hi' 'hi' 'rest' 'rest' 'hi' 'rest' 'en'
+ 'en' 'en' 'en' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+270,"['#ModiKaBudget' '#Budget2015' '#Indianbudget' '#SuperBudget' '5' 'ultra'
+ 'major' 'power' 'projects' 'http://t.co/4Qg5JfmqYN']",['rest' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en'],['' '' '' '' '' '' '' '' '' '']
+271,"['@HeeriPeeri' 'thts' 'mean' 'but' 'yeah' 'nothing' 'like' 'watching'
+ 'the' 'arrogant' 'bengalis' 'cry' '-' 'win' 'Pakistan']","['en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'en'
+ 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+272,"['Railway' 'ka' 'punarjanm' '???' '""' 'Hey' 'Prabhu' 'ye' 'kaise' 'hoga'
+ '!!!!!!' '""' '#RailBudget2015' 'visionary' 'opening' 'speech' 'by'
+ '@sureshpprabhu']","['en' 'hi' 'rest' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest'
+ 'en' 'en' 'en' 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+273,"['#' 'Famous' 'Shiva' 'Temple' 'of' '#Odisha' '.' '#MahaShivratri' '#'
+ 'Brahmeswar' 'Mahadev' ',' 'Gonasika' ',' 'Keonjhar'
+ 'http://t.co/AKCwb6qrah']","['rest' 'en' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest'
+ 'rest' 'rest' 'rest' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+274,"['@DrKumarVishwas' '@indiaaakash' 'Aaj' 'ki' 'duniya' 'koi' 'imandar'
+ 'nahi' 'hai' '.' 'Jo' 'khud' 'kahta' 'hai' 'wo' 'sabse' 'bad' 'a' 'chor'
+ 'hai' '.']","['en' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+275,"['RT' '@JantaKaReporter' ':' 'After' 'Yogeshwar' ',' 'now' 'Milkha'
+ 'Singh' 'demands' 'Salman' ""Khan's"" 'removal' 'as' 'Olympics' 'Goodwill'
+ 'ambassador' 'https://t.co/8TuBX2uHE6']","['en' 'en' 'rest' 'en' 'hi' 'rest' 'en' 'hi' 'rest' 'rest' 'rest' 'rest'
+ 'en' 'en' 'en' 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+276,"['@msdhoni' 'haapyyy' 'aniversry' 'ms' '..' '(' 'mahi' ')' ',,...'
+ 'muhhhh' 'http://t.co/oiiTIyepty']",['rest' 'en' 'en' 'rest' 'rest' 'rest' 'hi' 'rest' 'rest' 'rest' 'en'],['' '' '' '' '' '' '' '' '' '' '']
+277,"['Watching' '#RSMMA' 'where' '@Mirchimumbai' 'gives' '#music' 'ko'
+ 'salaam' '!' 'aweesome' 'host' '@sonunigam' '#staytuned']",['en' 'en' 'en' 'en' 'en' 'rest' 'hi' 'hi' 'rest' 'en' 'en' 'en' 'en'],['' '' '' '' '' '' '' '' '' '' '' '' '']
+278,"['@Being_Humor' 'Bhai' 'log' 'kehte' 'he' 'apne' '@mainbhiengineer' 'ke'
+ 'sath' 'milkar' 'attention' 'pane' 'k' 'liye' 'khud' 'ko' 'troll' 'kr'
+ 'liya' 'ky' 'ye' 'sahi' 'he' '?' '#AskAbhishek']","['hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'en' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '']"
+279,"['RT' '@RShivshankar' ':' '#AgustaCongLink2' 'Why' 'the' 'Rahul-Kanishka'
+ 'transaction' 'is' 'controversial' 'https://t.co/sFgzLHrQ4l']",['en' 'rest' 'rest' 'rest' 'en' 'en' 'rest' 'en' 'en' 'en' 'en'],['' '' '' '' '' '' '' '' '' '' '']
+280,"['@MrBollywoodSK' '@I_am_Rangil' 'is' 'me' 'lene' 'wali' 'koi' 'bat'
+ 'nahi' 'haha']",['en' 'en' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest'],['' '' '' '' '' '' '' '' '' '']
+281,"['On' '#Mahashivratri' ',' 'sharing' 'dhamaar' '#Shiva' 'Shiva' 'in'
+ 'raag' 'Adana' 'by' 'my' 'guru' 'Ustad' 'Wasifuddin' 'Dagar' '.'
+ 'http://t.co/hnLsIUUIUz' '#dhrupad' '#music']","['en' 'rest' 'rest' 'en' 'hi' 'rest' 'rest' 'en' 'hi' 'hi' 'en' 'en' 'en'
+ 'en' 'en' 'hi' 'rest' 'en' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+282,"['RT' '@sagarikaghose' ':' 'Guffaw' 'at' 'Rahul' ',' 'laugh' 'at'
+ 'Kejriwal' 'but' 'laugh' 'at' 'anyone' 'in' 'saffron' 'zone' 'and'
+ ""you're"" 'anti-national' '.' '@DeShobhaa' 'in' 'TOI' ':' 'https' ':']","['en' 'hi' 'rest' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'hi' 'en' 'rest' 'rest' 'en' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '']"
+283,"['Me' 'aapko' 'itna' 'ziada' 'ignore' 'kar' 'sakti' 'hun' 'K' 'apko'
+ 'apne' 'mojood' 'hone' 'pe' 'b' 'shak' 'hjaega' '...']","['hi' 'hi' 'hi' 'hi' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'en' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+284,"['@rahulroushan' '@CNNnews18' 'Punjab' 'ya' 'Delhi' 'se' 'strt' 'kijiye'
+ '.' 'aap' 'ki' 'hi' 'sarkar' 'hai' '...']","['en' 'en' 'rest' 'hi' 'rest' 'hi' 'en' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+285,['happy' '#MahaShivratri' '!!' 'Om' 'Manah' 'Shivaya'],['en' 'rest' 'rest' 'rest' 'rest' 'rest'],['' '' '' '' '' '']
+286,"['@narendramodi' '#RailBudget2015' 'ki' 'itni' 'tareef' 'karna' 'apko'
+ 'shobha' 'nahi' 'deta' '.' 'Let' 'others' 'praise' 'it' '.' 'You' 'are'
+ 'no' 'expert' '.' ""Don't"" 'sound' 'pompous' '.']","['rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'en' 'en'
+ 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '']"
+287,"['RT' '@bwoyblunder' ':' 'Over' '60000' 'views' '&' 'counting' '.' 'Have'
+ 'you' 'seen' 'Nidhi' 'Razdan' 'getting' 'caght' 'off-guard' 'on'
+ 'anti-national' 'slogans' '?' 'https://t.co/eLi']","['en' 'en' 'rest' 'en' 'rest' 'en' 'rest' 'en' 'rest' 'en' 'en' 'en'
+ 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+288,"['Om' 'hi' 'Ashta' ',' 'Om' 'Vishwas' ',' 'Om' 'se' 'hoti' 'hai' 'din'
+ 'ki' 'shubh' 'shuruvat' ',' 'Om' 'Namah' 'Shivay' '.' 'MahaShivratri'
+ 'ki' 'hardik' 'shubhkamnayein' '.']","['hi' 'hi' 'hi' 'rest' 'rest' 'rest' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'en' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'hi' 'hi' 'hi'
+ 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '']"
+289,"['RT' '@vijivenkatesh' ':' 'Thank' 'you' '@chaiforcancer' 'is' 'our'
+ 'unique' 'fundraising' 'and' 'awareness' 'tool' '.' 'Visit'
+ 'https://t.co/7N2ZDRuy9u' 'and' 'donate' 'https' ':']","['en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest'
+ 'en' 'en' 'en' 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+290,['Adat' 'c' 'ho' 'gae' 'her' 'Dafa' 'haarne' 'ki'],['hi' 'en' 'hi' 'hi' 'en' 'hi' 'hi' 'hi'],['' '' '' '' '' '' '' '']
+291,"['RT' '@aryaraju' ':' 'As' 'per' 'Rajmala' ',' 'the' 'royal' 'chronology'
+ 'of' 'Tripura' ',' 'a' 'total' 'of' '184' 'kings' 'ruled' 'over' 'the'
+ 'state' '.' '#7SistersOfIndia' '#History']","['en' 'rest' 'rest' 'hi' 'hi' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en'
+ 'rest' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'en']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '']"
+292,"['PIB_India' '#UHF' 'RT' '@RailMinIndia' ':' 'A' 'mechanism' 'for'
+ 'making' 'regulations' ',' 'setting' 'performance' 'standards' 'and'
+ 'tariffs' 'to' 'be' 'setup' '#RailBudget2015']","['rest' 'rest' 'en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'rest' 'en'
+ 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+293,"['#RailBudget2015' 'change' '#IndianRailways' '2' '#Muslim' 'special'
+ '#Christians' 'super' 'fast' '#bengali' 'general' '#Bihari' 'Rath' 'no'
+ 'indian' '#PrabhuKiRail']","['en' 'en' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'en' 'rest' 'en' 'rest'
+ 'en' 'en' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+294,"['@Being_Humor' '@Montukr' '@OfficeOfRG' 'ase' 'bhi' 'log' 'hai' 'abhi'
+ 'india' 'm']",['en' 'en' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi'],['' '' '' '' '' '' '' '' '' '']
+295,"['#NowListening' 'Zara' 'si' 'dil' 'mein' 'de' 'jagah' 'tu' 'zara' 'sa'
+ 'apna' 'le' 'bna' '..' '@sonalchauhan7' '@emraanhashmi' '#jannat']","['en' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest'
+ 'rest' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+296,"['Chaukhamba' 'and' 'Kedar' 'peaks' 'of' 'the' 'Garhwal' 'Himalaya' 'as'
+ 'seen' 'early' 'in' 'the' 'morning' 'from' 'Bedini'
+ 'https://t.co/CfLgOpz7At']","['hi' 'en' 'en' 'en' 'en' 'en' 'hi' 'hi' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+297,"['Type' 'OM' 'NAMAH' 'SHIVAY' '...........' 'Ishwar' 'satya' 'hai' ','
+ 'Satya' 'hi' 'Shiv' 'hai' ',' 'Shiv' 'hi' 'sundar' 'hai' '....' '#Happy'
+ '#MAHASHIVRATRI' '...' 'http://t.co/aI8z95dxzM']","['en' 'rest' 'rest' 'rest' 'rest' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi'
+ 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest' 'rest' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+298,"['RT' '@bdheeraj' ':' 'Pan' 'wala' ':' 'Pandit' 'ji' ',' 'Katha' '?'
+ 'Pandit' 'ji' ':' 'Satyanarayan' 'ki' ',' 'Ramayan' 'ki' 'jo' 'bolo'
+ 'woh' 'Pan' 'wala' ':' ':|' 'et' '@DefucktiveHumor']","['en' 'rest' 'rest' 'en' 'hi' 'rest' 'rest' 'hi' 'rest' 'hi' 'rest' 'rest'
+ 'hi' 'rest' 'hi' 'hi' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest'
+ 'rest' 'en' 'en']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '']"
+299,"['Very' 'happy' 'that' 'Bharat' 'Ratna' 'will' 'be' 'given' 'to' 'Pandit'
+ 'Malaviya' '&' 'Atal' 'ji']","['en' 'en' 'en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'hi'
+ 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+300,['@Vanita_ok' 'Please' 'Follow' 'me' 'mam' 'ji'],['rest' 'en' 'en' 'hi' 'hi' 'hi'],['' '' '' '' '' '']
+301,"['@Swamy39' 'entry' 'in' 'to' 'Rajyasabha' 'has' 'made' 'Congress'
+ 'sleepless' '#AugustaWestland']",['en' 'en' 'en' 'hi' 'hi' 'hi' 'en' 'en' 'en' 'en'],['' '' '' '' '' '' '' '' '' '']
+302,"['RT' '@sadhavi' ':' 'Suna' 'hai-' 'Shehzaade' 'Ki' '""' 'Ghar' 'Wapasi'
+ '""' 'ho' 'rahi' 'hai' '..' 'Soon' 'to' 'be' 'made' 'the' 'President' 'of'
+ '@INCIndia' '!' 'Doob' 'gayi' 'Nayyiaa' '!' '@suhelseth' '#']","['en' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'rest' 'hi' 'hi'
+ 'hi' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'hi' 'hi'
+ 'hi' 'rest' 'en' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '' '' '']"
+303,"['Are' 'you' 'the' 'female' 'version' 'of' 'Rahul' 'Gandhi' '??'
+ 'https://t.co/y7cz6y9x6X']",['hi' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'en'],['' '' '' '' '' '' '' '' '' '']
+304,"['RT' '@ANI_news' ':' 'Giriraj' 'ji' 'has' 'said' 'it' 'now' '.' 'But' 'I'
+ 'have' 'been' 'a' 'votary' 'of' 'small' 'family' 'with' 'two' 'children'
+ 'for' 'long' ':' 'Najma' 'Heptullah' 'https://t.co']","['en' 'en' 'rest' 'rest' 'hi' 'hi' 'en' 'en' 'en' 'rest' 'en' 'en' 'en'
+ 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'en'
+ 'en']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '']"
+305,"['@Footloose_Free' '@jasmiine_01' 'Sachin' 'ke' 'bina' 'yeh' 'world' 'cup'
+ 'adhoora' 'hai' '!' ':|' '#missYouSachin']",['en' 'rest' 'en' 'hi' 'hi' 'hi' 'en' 'en' 'hi' 'hi' 'rest' 'rest' 'en'],['' '' '' '' '' '' '' '' '' '' '' '' '']
+306,"['@KaifSays' 'and' '@YUVSTRONG12' 'ki' 'yaad' 'aa' 'rahi' 'hai' '.'
+ '#IndvsSA' '#FreedomSeries']",['hi' 'en' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest' 'en'],['' '' '' '' '' '' '' '' '' '' '']
+307,"['om' 'nama' 'shivaya' '#HappyMahashivratri' '""' 'Happy' 'Mahashivratri'
+ '""']",['rest' 'rest' 'rest' 'rest' 'rest' 'en' 'rest' 'rest'],['' '' '' '' '' '' '' '']
+308,"['Aj' 'Mahashivratri' 'k' 'subh' 'apsr' 'pr' '11:30' 'pm' 'se' 'puri'
+ 'rat' 'jagiye' 'CID' 'k' 'sath' 'n' 'kijiye' 'burae' 'ka' 'srhansh'
+ '@SonyTV' '@dayanandcid' '@shivaajisatam']","['hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest'
+ 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'en' 'en' 'en' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+309,"['RT' '@silcharNOW' ':' 'Barak' 'Valley' 'to' 'be' 'brought' 'on' 'broad'
+ 'gauge' 'by' 'March' ':' 'Suresh' 'Prabhu' '#RailBudget2015']","['en' 'en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'rest' 'en' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+310,"['@gautam_rode' 'Happy' 'Mahashivratri' 'to' 'u' 'too' 'Gautam' '!' 'Om'
+ 'Namaah' 'Shivai' 'Har' 'Har' 'Mahadev' ':)']","['en' 'en' 'en' 'en' 'en' 'hi' 'hi' 'rest' 'rest' 'rest' 'hi' 'hi' 'hi'
+ 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+311,"['@iamsrktheking' 'wo' 'ideal' 'world' 'ki' 'baatein' 'ha' '..' 'kitabi'
+ 'baatein' 'u' 'knw' ':p' 'real']",['en' 'hi' 'en' 'en' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'en' 'en' 'rest' 'en'],['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+312,['@Bipolar_BaBa' 'haha' 'man' '!' 'Reply' 'main' 'bhi' 'troll' ';)'],['rest' 'rest' 'en' 'rest' 'en' 'hi' 'hi' 'en' 'rest'],['' '' '' '' '' '' '' '' '']
+313,"['RT' '@dna' ':' 'Will' 'make' 'list' 'of' 'wilful' 'defaulters' 'public'
+ ',' 'says' 'Raghuram' 'Rajan' 'https://t.co/qQIaYljFdh'
+ 'https://t.co/tCi08u7ZlD']","['en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'en' 'rest'
+ 'rest' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+314,"['RT' '@LaraibNeyazi' ':' 'Mufti' 's' 'advocacy' 'for' 'dialogue' 'with'
+ 'Pakistan' 'for' 'the' 'larger' 'good' 'of' 'JK' 'was' 'rejected' 'by'
+ 'Modi' ',' '&' 'now' '#GodseWedsAfzal']","['en' 'hi' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'en'
+ 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+315,"['RT' '@sureshnakhua' ':' '#MahaShivRatri' '108' 'Names' 'of' 'Lord'
+ 'Shiva' '79' '.' '-' 'Bhootapati' '-' 'Lord' 'Of' 'Panchabhoota' 'Or'
+ 'Bhootapreta' '#']","['en' 'rest' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'rest' 'rest' 'rest'
+ 'rest' 'hi' 'rest' 'en' 'en' 'hi' 'hi' 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+316,"['RT' '@rupashreenanda' ':' 'AAP' 'budget' 'is' 'pro' 'edu' ',' 'pro'
+ 'health' ',' 'pro' 'public' 'transportation' ',' 'de' 'centralisation'
+ 'thru' 'mohalla' 'sabhas' ',' 'n' 'no' 'new' 'tax' 'burden' 'on']","['en' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'rest' 'rest' 'en' 'en' 'rest'
+ 'en' 'en' 'en' 'rest' 'hi' 'en' 'en' 'hi' 'hi' 'rest' 'en' 'en' 'en' 'en'
+ 'en' 'en']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '']"
+317,"['RT' '@NaIna0806' ':' 'While' 'Rahul' 'was' 'fooling' 'around' 'with'
+ 'rehearsed' 'speeches' 'it' 'was' '#SmritiIrani' 'who' 'was' 'at'
+ 'Amethi' 'solving' 'real' 'issues' '.' 'https://']","['en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+318,"['RT' '@s_navroop' ':' 'AC' 'EMU' 'MILI' 'NA' '!!!' '@HeadlinesToday' ':'
+ 'Suresh' ""Prabhu's"" '#RailBudget2015' 'disappoints' 'Shiv' 'Sena' 'as'
+ ""'"" 'Maharashtra' ""didn't"" 'get' 'anythi']","['en' 'en' 'rest' 'rest' 'en' 'en' 'hi' 'rest' 'en' 'rest' 'en' 'rest'
+ 'en' 'en' 'hi' 'hi' 'hi' 'rest' 'hi' 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+319,"['@sudhanshu74' 'People' 'with' 'a' 'weak' 'heart' 'are' 'not' 'meant'
+ 'for' 'cricket' '!' 'Khelne' 'keliye' 'bhi' '#WillOfSteel' 'chahiye'
+ 'aur' 'dekhne' 'keliye' 'bhi' ':-)' '#IndvsSA']","['rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'hi' 'hi'
+ 'hi' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+320,"['ab' 'south' 'africa' 'me' 'bhi' 'shop' 'ke' 'bhar'
+ '#bika_hua_wapis_nhi_hoge' 'ka' 'board' 'ltga' 'hai' '....' '#IndvsSA'
+ 'shabash' 'shero' '..........!!' 'make' 'us' 'proud' '.....']","['hi' 'en' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'en' 'hi' 'hi' 'rest'
+ 'rest' 'hi' 'hi' 'rest' 'en' 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+321,"['Gautam' 'Gambhir' 'should' 'play' 'cricket' ',' 'not' 'debate' 'on' 'TV'
+ 'https://t.co/gJYdah472h']",['hi' 'hi' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en'],['' '' '' '' '' '' '' '' '' '' '']
+322,"['Bhiku' 'Mhatre' '-' 'I' 'just' 'unlocked' 'the' 'title' 'Bhiku' 'Mhatre'
+ 'playing' 'Bollywood' 'level' '5' 'on' '@QuizUp' '!' '-'
+ 'https://t.co/IhUpUXdzhW']","['rest' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'en'
+ 'en' 'en' 'rest' 'rest' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+323,"['@CineMaakiKasam' '@Mean_Rashi' 'udaar' 'wali' 'zindagi' 'Jee' 'raha'
+ 'tha' 'tu']",['rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'],['' '' '' '' '' '' '' '' '']
+324,"['RT' '@asadowaisi' ':' ""Owaisi's"" 'Bihar' 'challenge' ':' 'Do' ""'""
+ 'secular' ""'"" 'parties' 'have' 'a' 'god-given' 'right' 'to' 'the'
+ 'Muslim' 'vote' '?' 'http://t.co/BOzzJWzh92' 'Imp' 'Qs' 'nee']","['en' 'hi' 'rest' 'rest' 'rest' 'en' 'rest' 'hi' 'rest' 'en' 'rest' 'en'
+ 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'en' 'hi' 'hi']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '']"
+325,"['RT' '@BestCM_kejriwal' ':' '@aaprohit' 'kitne' 'paise' 'mai' 'mili' 'RT'
+ '@ArvindKejriwal' 'e' '""' '#RahulOnLeave' '#RahulGandhi'
+ '#WhereIsRahulGandhi']","['en' 'en' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'en' 'en' 'en' 'rest' 'en'
+ 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+326,"['Shit' 'jokes' '....' 'Shit' 'krishna' '....' 'Shit' 'bharti' 'and'
+ 'shit' '#ComedyNightsLIVE']",['en' 'en' 'rest' 'en' 'hi' 'rest' 'en' 'hi' 'en' 'en' 'en'],['' '' '' '' '' '' '' '' '' '' '']
+327,"['""' ""'"" 'Congress' 'mukht' 'Bharat' ""'"" 'followed' 'by' ""'"" 'Gandhi'
+ 'mukht' 'congress' ""'"" '.' '@sambitswaraj' '@TimesNow' '#WhereIsRahul'
+ '""']","['rest' 'rest' 'en' 'en' 'rest' 'rest' 'en' 'en' 'rest' 'rest' 'en' 'en'
+ 'rest' 'rest' 'rest' 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+328,"['RT' '@sagarcasm' ':' 'Rajdeep' 'Sardesai' 'quitting' 'Twitter' 'is'
+ 'like' 'Shahid' 'Afridi' 'retiring' 'from' 'cricket' '.' 'You' 'know'
+ 'he' 'is' 'gonna' 'come' 'back' '.']","['en' 'en' 'rest' 'rest' 'hi' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+329,"['#KiskiDilli' 'congratts' 'to' 'New' 'Govt' '.' 'Of' 'Delhi' ','
+ '#varanasi' 'k' '#AssiGhat' 'm' 'free' 'WiFi' 'aagya' ',' 'dekhte' 'h'
+ '#delhi' 'm' 'kab' 'ayega' '.' 'http://t.co/uubXTuCFuf']","['en' 'en' 'en' 'en' 'en' 'rest' 'en' 'rest' 'rest' 'rest' 'hi' 'hi' 'hi'
+ 'en' 'en' 'hi' 'rest' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'rest' 'en']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '']"
+330,"['RT' '@PakistanArmy4u' ':' '3IEDs' 'at' 'different' 'locations' '('
+ 'Hamza' 'Goth' ',' 'Khanu' 'Qila&Sadar' 'Din' 'Goth' ')' 'of' 'Sui'
+ 'successfully' 'diffused' '#PakArmy' '#Pakistan' 'ht']","['en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'rest' 'rest' 'en' 'rest' 'rest'
+ 'hi' 'hi' 'en' 'rest' 'en' 'hi' 'en' 'en' 'rest' 'rest' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+331,['Aaj' 'Ex' 'se' 'baat' 'hui' 'thi' 'Sala' 'Manhus' '..' ':('],['hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest'],['' '' '' '' '' '' '' '' '' '']
+332,"['Happy' 'Mahashivratri' 'Sms' 'In' 'Hindi' ':' 'Aayi' 'Hai' 'Shiv' 'Ji'
+ 'Ki' 'Ratri' 'Karenge' 'Shiv' 'Ji' 'Ka' 'Jaap' 'Karenge' 'Kaamna'
+ 'Samridhi' 'Ki' '...' 'http://t.co/19VTOoIcp0']","['en' 'en' 'en' 'en' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+333,"['Yeh' '#ItalianChudail' 'desh' 'ko' 'khaa' 'jaaegi' 'RT' '@IndiaToday'
+ 'Sonia' 'Gandhi' 'leads' 'opposition' 'charge' 'to' 'not' 'allow'
+ '#RailBudget' '#RailBudget2015']","['hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'en' 'rest' 'rest' 'rest' 'en' 'en' 'en'
+ 'en' 'en' 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+334,"[""'"" 'SMS' 'OF' 'THE' 'DAY' ""'"" '#02Feb15' 'Mahashivratri' 'par' 'Bapuji'
+ 'ke' 'Swasthya' 'hetu' '1' 'Karod' 'Mahamrityunjay' 'Mantr' 'ka' '...'
+ 'http://t.co/Ijym74Ii70']","['rest' 'en' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'hi' 'hi' 'hi' 'en'
+ 'rest' 'rest' 'hi' 'en' 'en' 'hi' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+335,"['RT' '@HajirJawab' ':' 'Delhi' 'to' 'Dholakpur' '(' 'Chhota' 'Bheem' ')'
+ 'new' 'train' 'announce' 'na' 'karne' 'ki' 'wajeh' 'se' ',' 'Congress'
+ 'ne' '#RailBudget2015' 'ko' 'disappointed' 'decl']","['en' 'hi' 'rest' 'rest' 'hi' 'hi' 'rest' 'hi' 'hi' 'rest' 'en' 'en' 'en'
+ 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'en' 'hi' 'en' 'hi' 'en' 'en']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '']"
+336,"['RT' '@MrsGandhi' ':' 'While' 'Kejriwal' 'is' 'busy' 'holding' 'rallies'
+ 'in' 'Bengaluru' ',' '7000' 'Doctors' ',' '12000' 'Nurses' '&' '16000'
+ 'Teachers' 'join' 'MCD' 'workers' 'strike' '.' 'Go']","['en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest'
+ 'rest' 'en' 'rest' 'rest' 'en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en'
+ 'rest' 'en']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '']"
+337,"['@Gurmeetramrahim' 'thankyou' 'nd' 'congratulations' 'too' 'you' 'guru'
+ 'ji' '#DSSFoundationDay']",['en' 'en' 'en' 'en' 'en' 'en' 'hi' 'hi' 'en'],['' '' '' '' '' '' '' '' '']
+338,"['RT' '@satpalpandey' ':' 'Shah' 'Satnam' 'Ji' 'super' 'speciality'
+ 'Hospital' ',' 'providing' 'early' 'diagnosis' 'of' 'diseases' ','
+ 'using' 'ultra' 'modern' 'machines' ',' 'world' 'class']","['en' 'en' 'rest' 'hi' 'hi' 'hi' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'en'
+ 'en' 'rest' 'en' 'en' 'en' 'en' 'rest' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+339,"['@Sadafawanvk' 'Abhi' 'yeh' 'majra' 'lyftime' 'chalega' 'aur' 'Kashmir'
+ 'kavi' 'v' 'alag' 'nhi' 'hoga' 'dekh' 'Lena' ',' 'Yeah' 'sab' 'shanti'
+ 'se' 'beth' 'kar' 'majra' 'khatam' 'krna' 'chaiye']","['hi' 'hi' 'hi' 'hi' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '']"
+340,"['RT' '@mandybedi' ':' 'Aapko' 'bahut' 'saara' 'Pyaar' '..'
+ 'http://t.co/jgGpFuK22Y']",['en' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'en'],['' '' '' '' '' '' '' '' '']
+341,"['RT' '@MyVaranasi' ':' 'Thanks' 'to' 'PM' '@narendramodi' 'Ji' ','
+ 'Adarsh' 'Gram' '#Jayapur' 'transformed' 'into' 'an' 'ideal' 'village'
+ 'https://t.co/ZeKtPpjpNS' 'https://t.co/']","['en' 'rest' 'rest' 'en' 'hi' 'rest' 'rest' 'hi' 'rest' 'en' 'en' 'hi'
+ 'en' 'en' 'en' 'en' 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+342,"['@saswat28' ':' 'Famous' 'Shiva' 'Temple' 'of' '#Odisha' '.'
+ '#MahaShivratri' '#' ':' 'Baba' 'Akhandalamani' ',' 'Aradi' 'dham' ','
+ 'Bhadrak' 'http://t.co/iqASOVyiZ5' '""']","['rest' 'rest' 'en' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'rest' 'rest' 'hi'
+ 'rest' 'rest' 'hi' 'hi' 'rest' 'rest' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+343,"['Mechanical' 'Computer' ':' 'Babbage' 'pioneers' 'the' 'computing'
+ 'machine' 'https://t.co/hnmrLluKMW' 'via' '@delicious'
+ 'https://t.co/RrdtCvF1sk']",['en' 'en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en'],['' '' '' '' '' '' '' '' '' '' '' '']
+344,"['Ke' '#__' 'Tmhe' 'mjhse' 'kyaa' 'Garz' 'hai' 'ANI_news' 'prashant'
+ 'kishor' 'ne' '2' 'saal' 'pehle' 'script' 'pakda' 'di' 'thi' '.' 'aaj'
+ 'tak' 'vahi' 'pel' 'rahe' 'h' 'pm' 'sahib' '.']","['hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'en' 'en' 'hi' 'hi' 'rest' 'hi' 'hi'
+ 'en' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest'
+ 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '']"
+345,"['Mahashivratri' 'Katha' 'By' 'Debashish' 'Das' 'Gupta' 'Full' 'Audio'
+ 'Song' 'Juke' 'Box' 'http://t.co/eTLELU4QFx']",['rest' 'hi' 'en' 'rest' 'hi' 'rest' 'en' 'en' 'en' 'en' 'en' 'en'],['' '' '' '' '' '' '' '' '' '' '' '']
+346,['RT' '@ottel' ':' 'Pick' 'up' 'line' 'asdfghjl' 'https://t.co/J6GSlapgtE'],['en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en'],['' '' '' '' '' '' '' '']
+347,"['15th' 'February' 'ko' '#IndvsPak' 'hai' '.....' 'Lekin' '.....' 'Abhi'
+ 'se' 'hi' '......' 'Pak' 'ki' 'Maa' 'kaa' 'Bhos*aa' '..' '#Indwin' '.']","['en' 'en' 'hi' 'rest' 'hi' 'rest' 'hi' 'rest' 'hi' 'hi' 'hi' 'rest'
+ 'rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+348,"['RT' '@TrollKejri' ':' 'Maine' 'Modi' 'ji' 'se' 'sirf' '2' 'Degree'
+ 'maangi' 'thi' 'BA' 'ki' 'aur' 'MA' 'ki' '.' 'Modi' 'ji' 'kehte' 'hai'
+ ',' 'Beta' 'tumhe' '3rd' 'Degree' 'denge' '.' 'Ab' 'Modiji' 'ne' 'Tisra']","['en' 'en' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'en' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'rest' 'rest' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'en' 'en'
+ 'hi' 'rest' 'hi' 'hi' 'hi' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '' '' '' '' '' '']"
+349,"['Swami' 'Swaroopananda' 'reacts' 'on' 'Rajahmundry' 'incident'
+ 'http://t.co/XEuEfC2n1s' 'http://t.co/Z6PSQHbwXt']",['hi' 'rest' 'en' 'en' 'en' 'en' 'en' 'en'],['' '' '' '' '' '' '' '']
+350,"['@chetan_bhagat' 'Farmer' 'ka' 'dard' 'Farmer' 'jaansakta' 'hai' '.'
+ 'A/C' 'Room' 'mein' 'baitkar' 'Books' 'likhne' 'wale' 'ko' 'kyapata'
+ 'Farmers' 'ka' 'dard' '.' '#LandAcquisitionBill']","['hi' 'en' 'hi' 'hi' 'en' 'hi' 'hi' 'rest' 'rest' 'en' 'hi' 'hi' 'en' 'hi'
+ 'hi' 'hi' 'hi' 'en' 'hi' 'hi' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+351,"['RT' '@BCCI' ':' '@mahesh_vma' 'Mahesh' 'click' 'here'
+ 'http://t.co/UNwym42fon' 'for' 'your' 'Sachin' 'Tendulkar' 'personalized'
+ 'digital' 'autograph' '.']","['en' 'rest' 'rest' 'rest' 'hi' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+352,"['Swargarohini' 'Peaks' 'as' 'seen' 'from' 'Kedarkantha' 'Peak' '.'
+ 'Uttarkashi' ',' 'Uttarakhand' 'India' '#beautiful'
+ 'https://t.co/2J9IuGXJna']","['hi' 'en' 'en' 'en' 'en' 'hi' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest'
+ 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+353,"['@ImVeeDee' 'din' 'me' 'nahi' 'baba' '.' 'Raipur' 'me' 'bahut' 'garmi'
+ 'rahegi' '.' 'Raat' 'ne' 'hi' 'thik' 'h' '.' 'Lol' '@shikhakotak'
+ '@vichupedia']","['en' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'rest' 'rest' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+354,"['Remembering' 'swami' 'Vivekananda' 'on' 'his' 'birth' 'anniversary'
+ 'https://t.co/Y32sprniUR']",['en' 'hi' 'rest' 'en' 'en' 'en' 'en' 'en'],['' '' '' '' '' '' '' '']
+355,"['Janemon' 'Full' 'Mp3' 'Song' 'Free' 'Download' 'Herogiri' 'Movie'
+ 'Benny' 'Dayal' ',' 'Dipali' 'Sathe' 'http://t.co/ocse9u25PF']",['en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'hi' 'en'],['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+356,"['declare' 'some' 'another' 'day' 'for' 'childrens' ',' 'as1' 'june' 'is'
+ 'world' 'children' 'day' 'and' '20' 'nov' '.' 'our' 'child' ""don't""
+ 'deserve' 'tharki' 'Nehru' '#HelpAChildReach5']","['en' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'hi' 'en' 'en' 'en' 'en' 'en'
+ 'rest' 'en' 'rest' 'en' 'en' 'en' 'en' 'hi' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+357,"['RT' '@juristkhagesh' ':' 'Apeejay' 'G' '.' 'D' '.' 'Goenka' 'K' '.' 'R'
+ 'Mangalam' 'and' 'dozens' 'of' 'big' 'Delhi' 'school' 'rolled' 'back'
+ 'fee' 'hike' 'first' 'time' 'in' 'history' '@msisodi']","['en' 'en' 'rest' 'en' 'en' 'rest' 'rest' 'rest' 'en' 'hi' 'rest' 'en'
+ 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '']"
+358,"['RT' '@GreatHeretic' ':' 'From' 'the' 'Panchkoshi' 'Parikrama' 'in'
+ 'Varanasi' '.' '#MahaShivratri' 'http://t.co/h568lD1cZ0']",['en' 'en' 'rest' 'en' 'en' 'rest' 'rest' 'en' 'rest' 'rest' 'rest' 'rest'],['' '' '' '' '' '' '' '' '' '' '' '']
+359,"['RT' '@indicine' ':' 'Check' 'out' 'the' 'terrific' 'new' 'poster' 'of'
+ 'Sultan' 'featuring' 'Anushka' 'Sharma' 'https://t.co/ijNuqfu2oB']","['en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'hi'
+ 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+360,"['BJP' 'ke' 'leaders' 'bhi' 'bahut' 'bade' 'wale' 'hai' '..' 'nahi'
+ 'sudhrenge' 'https://t.co/5qJQi772Er']",['rest' 'hi' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'en' 'en'],['' '' '' '' '' '' '' '' '' '' '' '']
+361,"['during' 'Nirbhaya' 'protests' 'in' '2013' 'I' 'heard' 'a' 'slogan' '""'
+ 'desh' 'ka' 'Yuva' 'Yahan' 'hai' '~' 'Rahul' 'gandhi' 'kahan' 'hai' '""'
+ '#WhereIsRahul']","['en' 'hi' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'rest' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'rest' 'en' 'hi' 'hi' 'hi' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+362,"['@omar_quraishi' 'Agar' 'udhar' '@ZaidZamanHamid' 'hai' 'to' 'ab' 'idhar'
+ '@SHIFUJIJAIHIND' 'hai' ',' 'Dono' 'mil' 'ke' 'waat' 'laga' 'denge'
+ 'khitte' 'ki' 'https://t.co/kVXWvUy50C']","['rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'rest' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+363,"['@gvvaidya' 'impact' 'to' 'achha' 'nahi' 'aaya' 'waise' ',,']",['en' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest'],['' '' '' '' '' '' '' '']
+364,"['Koyle' 'ki' 'khadaan' 'kaisa' 'hair' 'tu' '...' 'Sab' 'thhik' 'thhak'
+ '...' 'Apni' 'Sonia' 'maiyaa' 'ko' 'baccha' 'me' 'me' 'like' 'bade'
+ 'haath' 'paao' 'maar' 'https://t.co/RzrWADGSDi']","['hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'rest' 'hi' 'rest'
+ 'hi' 'hi' 'hi' 'hi' 'hi' 'en' 'hi' 'hi' 'hi' 'hi' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+365,"['<' 'Enter' 'here' 'an' 'motivational' 'quote' '>' 'that' '!'
+ 'https://t.co/exfIqf00ga']",['rest' 'en' 'en' 'en' 'en' 'en' 'rest' 'en' 'rest' 'en'],['' '' '' '' '' '' '' '' '' '']
+366,"['RT' '@sunny_congress' ':' 'Doobe' 'Doobe' 'dil' 'ki' 'jab' ',' 'dhadkan'
+ 'badh' 'jati' 'hai' 'Aise' 'mein' 'phir' 'maa' 'ki' 'god' ',' 'yaad'
+ 'aati' 'hai']","['en' 'en' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'en' 'rest' 'hi' 'hi' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+367,"['RT' '@vickynanjappa' ':' 'Jaish-e-Mohammad' 'was' 'setting' 'up' 'home'
+ 'grown' 'module' 'in' 'India' 'https://t.co/YLPcm8DxlI' '#jem' 'via'
+ '@oneindia']","['en' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'en'
+ 'rest' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+368,['@Lucky_Reyy' 'doctor' 'student' 'gareeb' 'nai' 'hota' '.'],['en' 'en' 'en' 'hi' 'hi' 'hi' 'rest'],['' '' '' '' '' '' '']
+369,"['Kapoor' '&' 'Sons' '-' 'Official' 'Trailer' '-' 'Sidharth' 'Malhotra'
+ ',' 'Alia' 'Bhatt' ',' 'Fawad' 'https://t.co/kZiOCMuTul']","['hi' 'rest' 'rest' 'rest' 'en' 'en' 'rest' 'en' 'en' 'rest' 'hi' 'hi'
+ 'rest' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+370,['@shilpitewari' '@Olacabs' 'ye' 'kya' 'bakwas' 'AD' 'hai' '?'],['hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest'],['' '' '' '' '' '' '' '']
+371,"['RT' '@timesofindia' ':' 'Nepalese' 'ambassador' 'stays' 'put' 'in'
+ 'Delhi' 'despite' 'reports' 'of' 'recall' 'https://t.co/yNXypKOWQt'
+ 'https://t.co/cAOJMEhfbu']","['en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+372,"['PIB_India' '#UHF' 'Railway' 'is' 'a' 'unique' 'integrator' 'of' 'India'
+ ':' 'sureshpprabhu' '#RailBudget2015']",['rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'rest'],['' '' '' '' '' '' '' '' '' '' '' '']
+373,"['Lingodbhava' 'Kaalam' '12:30:12' 'to' '12:32:23' 'Say' 'It' 'Loud' 'Om'
+ 'Namah' 'Sivaya' 'Maha' 'Siva' 'Ratrhi' 'jagaran' '#MahaShivratri']","['rest' 'rest' 'rest' 'hi' 'rest' 'en' 'en' 'en' 'rest' 'rest' 'hi' 'hi'
+ 'hi' 'rest' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+374,"['Kal' '#IndvsPak' 'kitne' 'baj' 'ese' 'hai' '...' 'koi' 'to' 'bata' 'do'
+ '...']",['hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest'],['' '' '' '' '' '' '' '' '' '' '' '']
+375,"['RT' '@dna' ':' 'Kohinoor' ""can't"" 'be' 'brought' 'back' 'to' 'Pakistan'
+ ':' 'Punjab' 'govt' 'tells' 'Lahore' 'HC' 'https://t.co/lih67rtyon'
+ 'https://t.co/7RT31wdpGv']","['en' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'en' 'hi' 'rest' 'rest' 'rest'
+ 'en' 'en' 'en' 'rest' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+376,['@Xxtra_Edge' '@Rishita_x' 'theek' 'hai' 'jo' 'tujhe' 'acha' 'lage'],['en' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'],['' '' '' '' '' '' '' '']
+377,"['The' 'Panama' 'Papers' 'chronicle' 'a' 'global' 'industry' 'developed'
+ 'to' 'enable' 'an' 'international' 'elite' '.' 'https://t.co/cJLrypGyR1']","['en' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest'
+ 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+378,"['RT' '@pankajshuklabjp' ':' 'Yesterday' 'Memory' ':' 'aapdu' '#Ahmedabad'
+ 'at' 'Manekchawk' 'with' 'team' '#BJYM' 'http://t.co/WtnaIpX6TI']","['en' 'rest' 'rest' 'en' 'en' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'en'
+ 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+379,"['Jeena' 'Jeena' 'Video' 'Song' 'HD' 'Download' 'Badlapur' 'Movie' 'Varun'
+ ',' 'Yami' 'Gautam' 'http://t.co/MvOVeLF63b']",['hi' 'hi' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'rest' 'hi' 'hi' 'en'],['' '' '' '' '' '' '' '' '' '' '' '' '']
+380,"['RT' '@abhi1512anya' ':' 'Pehle' 'Satta' 'ka' 'Lalach' 'aur' 'ab' 'PM'
+ 'banane' 'ki' 'Lalsa' '....' 'Kuch' 'kam' 'nahi' 'krna' 'Sirf' 'Modi'
+ 'Modi' 'japna' 'hai' 'unhe' 'n' 'unki' 'party' 'ko' 'https']","['en' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'rest'
+ 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'en' 'hi' 'en']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '' '']"
+381,"['My' 'idea' 'of' '#healthyfood' '?' 'Salad' '!' 'Add' 'some' 'pizza'
+ 'and' 'remove' 'all' 'veggies' '.' '#WorldLaughterDay' '#countdown'
+ '#4DAYS2GO']","['en' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'rest' 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+382,"['@dna' '@AnushkaSharma' '@NayandipRakshit' 'yeh' 'banda' 'bahut' 'kismat'
+ 'wala' 'he' '#Sultan']",['rest' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest'],['' '' '' '' '' '' '' '' '' '']
+383,['@i31p1n' 'Jee' 'Haan' 'ho' 'Gayi' '.' 'Hum' 'Dhanya' 'hue' ':/'],['en' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'rest'],['' '' '' '' '' '' '' '' '' '']
+384,"['Win' 'win' 'win' 'win' 'INDIA' 'win' 'kya' 'match' 'tha' 'yaar' '...'
+ 'indvsban']",['en' 'en' 'en' 'en' 'rest' 'en' 'hi' 'en' 'hi' 'hi' 'rest' 'rest'],['' '' '' '' '' '' '' '' '' '' '' '']
+385,"['@Gurmeetramrahim' 'congrtzz' 'pyare' 'papa' 'ji' '....'
+ '#MSGdedicatesAwardToGuruji']",['en' 'en' 'hi' 'en' 'hi' 'rest' 'en'],['' '' '' '' '' '' '']
+386,"['Body' 'language' 'of' 'Sonia' 'Gandhi' ':' 'Restless' 'and' 'Uneasy' '""'
+ 'Bas' 'kar' 'Modi' 'ab' 'aur' 'Bardasht' 'nahi' 'hota' '""' '#SuperBudget']","['en' 'en' 'en' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'rest' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+387,"['RT' '@SPoonia777' ':' 'Absolutely' '@ITwingDSS' '#OurInspirationMSG'
+ 'Bcz' 'Guru' '@Gurmeetramrahim' 'ji' 'end' 'Prostitution' '&' 'Accepts'
+ 'All' 'as' 'Her' 'childrens' 'https' ':']","['en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'hi' 'en' 'en' 'rest' 'en'
+ 'en' 'en' 'en' 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+388,"['Impossible' 'to' 'deal' 'with' 'the' 'horde' 'of' 'Digital' 'India'
+ 'profile' 'pictures' '...' 'just' 'impossible']",['en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'rest' 'en' 'en'],['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+389,"['RT' '@shubhansh1504' ':' '""' 'Issi' 'ne' 'tere' 'haath' 'pair' 'today'
+ 'the' 'na' '?' '""' '""' 'Yes' 'bro' '""' '""' 'Tomorrow' 'saale' 'ko' '""']","['en' 'rest' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'en' 'en' 'en' 'hi' 'rest'
+ 'rest' 'rest' 'en' 'en' 'rest' 'rest' 'en' 'hi' 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+390,"['ye' 'saale' 'running' 'kar' 'rahe' 'hain' 'ya' 'bc' '#IndvsPak'
+ '#PakvsInd']",['hi' 'hi' 'en' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest' 'rest'],['' '' '' '' '' '' '' '' '' '']
+391,"['RT' '@Komal_Indian' ':' 'Waah' 'waah' '!' 'Both' 'National' 'anthems'
+ 'written' 'by' 'Gurudev' 'Tagore' 'to' 'b' 'sung' 'one' 'after' 'other'
+ '#IndvsBan']","['en' 'rest' 'rest' 'hi' 'hi' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'hi' 'hi' 'en' 'en' 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+392,"['@MayuriJadhav441' 'sagale' 'Mumbai' 'Pune' 'Mumbai' 'che' 'dialogue'
+ 'mara' 'ata' '..' 'hahahaha' '#myfavmovie']",['hi' 'hi' 'rest' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest' 'en'],['' '' '' '' '' '' '' '' '' '' '' '']
+393,"['RT' '@taslimanasreen' ':' 'Javed' 'Akhtar' '@Javedakhtarjadu' ""'"" 's'
+ 'farewell' 'speech' 'at' 'Rajya' 'Sabha' 'was' 'very' 'moving' '.'
+ 'People' 'like' 'Owaisi' 'should' 'be' 'exposed' '.' 'B']","['en' 'rest' 'rest' 'rest' 'hi' 'rest' 'rest' 'en' 'en' 'en' 'en' 'rest'
+ 'hi' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '']"
+394,"['@Gurmeetramrahim' 'Bless' 'me' 'pita' 'ji' 'N' 'm' 'waiting' 'for' 'my'
+ 'birthday' 'gift' 'pita' 'ji' 'Plz' 'jldi' 'jldi' 'do' 'na']","['en' 'en' 'hi' 'hi' 'hi' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'hi' 'hi'
+ 'en' 'hi' 'hi' 'hi' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+395,"['RT' '@Umna1D' ':' '@NaumanTheKhaan' 'ajeeb' 'lame' 'baatein' 'kartay'
+ 'ho' '!']",['en' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest'],['' '' '' '' '' '' '' '' '' '']
+396,"['Special' 'Dharna' 'Express' 'Announced' 'for' 'ANNA' ',' 'isme' 'yeh'
+ 'pure' 'desh' 'me' 'ghum' 'ghum' 'ke' 'dharna' 'de' 'sakenge'
+ '@OneTipOneHand_' '@Keisar_' '#RailBudget2015']","['en' 'hi' 'en' 'en' 'en' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'rest' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+397,"['RT' '@immortal_luster' ':' 'Baba' 'Gurmeet' 'Ram' 'Rahim' 'Singh'
+ 'Insaan' 'can' 'not' 'book' 'TATKAL' 'ticket' 'because' 'six' 'people'
+ '.' '#RailBudget2015']","['en' 'en' 'rest' 'hi' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'en'
+ 'en' 'en' 'en' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+398,"['@sreesanth36' ':)' '.' 'Do' 'let' 'me' 'know' 'when' 'you' 'visit'
+ 'Delhi' ':)' 'basi' '(' 'Basbakan' ')' 'Angela' 'Merkel']","['rest' 'rest' 'rest' 'en' 'en' 'hi' 'en' 'en' 'en' 'en' 'rest' 'rest'
+ 'hi' 'rest' 'rest' 'rest' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+399,"['Bipasha' 'taking' 'pheras' 'the' 'Bengali' 'way' '!'
+ 'https://t.co/IB8ZvMOWBN']",['hi' 'en' 'en' 'en' 'en' 'en' 'rest' 'en'],['' '' '' '' '' '' '' '']
+400,"['Abhishek' 'Chaubey' ':' 'What' 'a' 'show' 'What' 'a' 'performance' ','
+ 'outstanding' 'https://t.co/acesRkNKtV' '#TweetsNow' ',' '#FilmyTweets'
+ 'https://t.co/d6qQBE4g1v']","['hi' 'hi' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'en'
+ 'rest' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+401,"['Virat' 'Half' 'Century' 'Nee' 'Consistency' 'ki' 'Salaam' 'anna'
+ '@imVkohli' '#RCBvRPS']",['rest' 'en' 'en' 'en' 'en' 'hi' 'hi' 'hi' 'rest' 'rest'],['' '' '' '' '' '' '' '' '' '']
+402,"['Ahetuk' '(' '2015' ')' 'Bengali' 'Movie' 'Mp3' 'Songs' 'Album'
+ 'Download' 'http://t.co/Nrm9xZf8cu']",['rest' 'rest' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en'],['' '' '' '' '' '' '' '' '' '' '']
+403,"['@Gurmeetramrahim' '#FansStillEnjoyingMSG2' 'mere' 'papa' 'sebse' 'great'
+ 'hai' 'me' 'papaji' '.....' 'ye' '........']",['en' 'en' 'hi' 'en' 'en' 'en' 'hi' 'hi' 'hi' 'rest' 'hi' 'rest'],['' '' '' '' '' '' '' '' '' '' '' '']
+404,"['RT' '@__chirag_' ':' 'For' 'every' 'vadapav' 'stall' 'in' 'Mumbai' ','
+ 'Gujarat' 'has' 'a' 'Swaminarayan' 'Temple' '.' '#trueStory']","['en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'en'
+ 'en' 'en' 'en' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+405,"['RT' '@iKunaal' ':' 'Hahaha' 'poora' 'toh' 'le' 'lete'
+ 'https://t.co/QzfNT1XN7A']",['en' 'rest' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'en'],['' '' '' '' '' '' '' '' '']
+406,"['@EngAsadurRehman' 'ohoooo' '....' 'Aur' 'twitter' 'pe' 'gap' 'lgau'
+ '*****' 'se' '...']",['hi' 'hi' 'rest' 'hi' 'en' 'hi' 'hi' 'hi' 'rest' 'hi' 'rest'],['' '' '' '' '' '' '' '' '' '' '']
+407,['Lets' 'go' 'Raina' '!' 'Lets' 'go' 'Dhoni' '!!' '#IndvsSA'],['en' 'en' 'rest' 'rest' 'en' 'en' 'hi' 'rest' 'rest'],['' '' '' '' '' '' '' '' '']
+408,"['RT' '@Boxofficenation' ':' '@Prakashjaaju' '@spot_boyy' 'fan' 'ramnavmi'
+ 'main' 'release' 'hu' 'hai' 'sir' '.' '70%' 'india' 'chutti' 'hota' 'hai']","['en' 'en' 'rest' 'rest' 'en' 'en' 'en' 'hi' 'en' 'hi' 'hi' 'hi' 'rest'
+ 'rest' 'rest' 'hi' 'hi' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+409,"['RT' '@MrsGandhi' ':' 'Sab' 'mile' 'hue' 'hain' 'ji' '!!!'
+ 'https://t.co/9yVjyt5e87']",['en' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'en'],['' '' '' '' '' '' '' '' '' '']
+410,"['@gappistanradio' 'Meanwhile' 'Faridabadi' ',' 'ah' '!' 'Daily' 'ka'
+ 'routine' 'h' ',' 'aaj' 'jogging' 'karte' 'hue' 'jaunga' '.']","['en' 'en' 'rest' 'rest' 'hi' 'rest' 'en' 'hi' 'en' 'hi' 'rest' 'hi' 'en'
+ 'hi' 'hi' 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+411,"['@Gurmeetramrahim' 'jiv' 'htya' 'pr' 'rok' 'lgana' 'ki' 'advise' 'dena'
+ '#MSGmissionHumanity']",['en' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'en' 'hi' 'en'],['' '' '' '' '' '' '' '' '' '']
+412,"['Bowlers' '..' '3-4' 'aur' 'wide' 'bowls' 'dedena' 'zaraa' '..' ':P'
+ '#IndvsSA']",['en' 'rest' 'rest' 'hi' 'en' 'en' 'hi' 'hi' 'rest' 'rest' 'rest'],['' '' '' '' '' '' '' '' '' '' '']
+413,"['Hindustan' 'ki' 'Kasam' '..' 'pataake' 'toh' 'hum' 'he' 'phodenge'
+ '#PakvsInd' '#BleedBlue' '#IndvsPak' '#76' 'runs']","['rest' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'en' 'en' 'en' 'rest' 'rest'
+ 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+414,"['Raj' 'thakrey' 'might' 'go' 'cRaZy' 'if' 'Obama' 'have' 'asked' 'Modi'
+ ""'"" 'kem' 'cho' ""'"" 'in' 'Marathi']","['hi' 'hi' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'rest' 'rest' 'hi' 'hi'
+ 'rest' 'en' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+415,"['RT' '@BJP4India' ':' 'Glimpses' 'of' 'PM' 'Shri' '@narendramodis'
+ 'public' 'meeting' 'in' 'Kerala' 'and' 'Tamil' 'Nadu' '-'
+ 'https://t.co/Bl36PtOct3' 'https://t.co/3SpTCMn8nx']","['en' 'rest' 'rest' 'en' 'en' 'rest' 'hi' 'rest' 'en' 'en' 'en' 'rest'
+ 'en' 'en' 'rest' 'rest' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+416,['@MildlyClassic' 'wahi' 'jo' 'last' 'salary' 'se' 'kiya' '.'],['en' 'hi' 'hi' 'en' 'hi' 'hi' 'hi' 'rest'],['' '' '' '' '' '' '' '']
+417,"['@raviishndtv' 'or' 'modiji' 'ye' 'kaam' 'acche' 'se' 'kr' 'lete' 'h'
+ '...']",['rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest'],['' '' '' '' '' '' '' '' '' '' '']
+418,"['@andredecunha' 'fans' '?' 'You' 'really' 'think' 'there' 'are' 'fans'
+ 'already' '?' 'Arsenal' 'really' ""isn't"" 'that' 'popular' ';)']","['en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'en'
+ 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+419,"['This' 'is' 'how' 'we' 'Indians' 'Celebrated' '#slapday' 'on'
+ '15-02-2015' '#indvspak' '#CWC15' 'pakistaniyo' 'tum' 'se' 'na' 'ho'
+ 'payega' '..' ':D']","['en' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'rest'
+ 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+420,"['Video' ':' 'Havana&Japa' 'On' 'The' 'Eve' 'Of' 'Mahashivratri' 'At'
+ 'Omkareshwar' ',' 'Jyotirlinga' '.' 'http://t.co/b7Blm8yBQM']","['en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'hi' 'rest' 'en' 'rest'
+ 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+421,['Rply' 'se' 'jiyaa' 'mai' 'Late' 'rply' 'pe' 'maara' 'mai'],['en' 'hi' 'hi' 'hi' 'en' 'en' 'hi' 'hi' 'hi'],['' '' '' '' '' '' '' '' '']
+422,['@Rishita_x' 'Spam' 'k' 'liye' 'Sorry' 'but' 'Maza' 'agaya'],['rest' 'en' 'hi' 'hi' 'en' 'en' 'hi' 'hi'],['' '' '' '' '' '' '' '']
+423,"['RT' '@singhAlisha05' ':' 'Happy' 'mahashivratri' 'to' 'u' 'all' '..'
+ 'kanyaon' 'ko' 'acha' 'var' 'mile' 'or' 'var' 'ko' 'achi' 'kanya' 'mile'
+ '...' 'Har' 'Har' 'Mahadev' '!' 'http://t.co/ytQy3D']","['en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'rest' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'rest' 'rest' 'en']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '']"
+424,"['Baite' 'rahiye' ',' 'kahi' 'na' 'jaayiye' '...' '#RahulGandhi' 'jald'
+ 'hi' 'lautenge' 'ek' 'chote' 'se' 'break' 'ke' 'baad' '.' '#RahulOnLeave']","['hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'en' 'hi' 'hi' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+425,"['@BCCI' 'my' 'XI' 'fo' '2morow' ':' 'MSD' ',' 'VK' ',' 'JINKS' ','
+ 'GABBAR' ',' 'HITMAN' ',' 'SONU' ',' 'AXAR' ',' 'JADDU' ',' 'BINNY' ','
+ 'MOHIT' ',' 'UMESH' '#IndvsPak' '#PakvsInd' '#CWC15']","['rest' 'en' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest'
+ 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest'
+ 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '' '' '']"
+426,"['#RailBudget2015' 'RT' '@PandaJay' '#RailwayBudget' '#HeardInCentralHall'
+ 'Q' ':' '""' 'What' 'should' 'we' 'protest' ',' 'yaar' '?' '""' 'Ans' ':'
+ '""' 'Dhoodtey' 'reh' 'jaogey' '""']","['en' 'en' 'rest' 'en' 'en' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'en'
+ 'rest' 'hi' 'rest' 'rest' 'rest' 'rest' 'rest' 'hi' 'hi' 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+427,"['RT' '@41deepak' ':' 'After' ""today's"" 'match' ':' 'Anushka' 'Sharma'
+ 'dumps' 'Virat' 'Kohli' 'becoz' 'she' 'found' 'another' 'sharma'
+ '#RohitSharma' '&' 'she' ""don't"" 'want' 'to' 'change']","['en' 'rest' 'rest' 'en' 'en' 'en' 'rest' 'hi' 'rest' 'rest' 'rest' 'rest'
+ 'en' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+428,"['mahashivratri' 'k' 'i' 'shubhkamnay' 'bum' 'bum' 'bhole' 'OM' 'NAMHA'
+ 'SHIVAYE']",['hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest' 'rest'],['' '' '' '' '' '' '' '' '' '']
+429,"['RT' '@MichaelVaughan' ':' 'My' 'word' '....' '17' 'yrs' 'old' '....'
+ 'Sarfaraz' 'Khan' '...' 'Incredible' 'talent' '....' '#RCBvRR' '#IPL2015']","['en' 'en' 'rest' 'en' 'en' 'rest' 'en' 'en' 'en' 'rest' 'rest' 'rest'
+ 'rest' 'en' 'en' 'rest' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+430,"['This' 'is' 'a' 'green' 'chilly' 'from' 'nasik' 'maharashtra' '.'
+ 'http://t.co/nMliIeZeFi']",['en' 'en' 'en' 'en' 'en' 'en' 'en' 'hi' 'rest' 'en'],['' '' '' '' '' '' '' '' '' '']
+431,"['RT' '@SirHamzaAbbasi' ':' 'Na' 'do' 'subtwat' 'ja' 'raha' 'hun' 'mai'
+ '.']",['en' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest'],['' '' '' '' '' '' '' '' '' '' '']
+432,"['Bangkok' '...' 'for' 'wht' 'banging' 'his' 'Kok' '#WhereIsRahul'
+ 'lerance' 'kehtey' 'ho' '.' 'Guru' 'tum' 'kisi' 'atankwadi' 'se' 'kam'
+ 'nahi' ',' 'aacha' 'hua' 'ab' 'tum' 'india' 'ke' 'brand' 'nahi']","['rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'hi' 'hi' 'rest' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'en'
+ 'hi']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '']"
+433,"['IQBAL' 'tere' 'qoom' 'ka' 'iqbal' 'khoo' 'gaya' 'maazi' 'tu' 'sunahera'
+ 'tha' 'par' 'haal' 'khoo' 'gaya' '...' '#MSMSalutesIqbal']","['rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+434,"['RT' '@sh_vArsHa' ':' ""It's"" 'true' '!' 'Daal' 'Baati' 'Churma' 'Gond'
+ '&' 'Besan' 'Ke' 'Laddu' 'All' 'type' 'of' 'Seera' '(' 'halwa' ')' '.'
+ 'Yeah' ',' 'My' 'Blood' 'Group' 'Is' 'Ghee' 'Positive' 'https' ':/']","['en' 'rest' 'rest' 'en' 'en' 'rest' 'hi' 'hi' 'rest' 'en' 'rest' 'hi'
+ 'hi' 'rest' 'en' 'en' 'en' 'en' 'rest' 'hi' 'rest' 'rest' 'en' 'rest'
+ 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '' '' '' '' '']"
+435,['@iMoodyMeow' 'hahahahahahahaha' 'itta' 'kafi' 'hai'],['en' 'rest' 'hi' 'hi' 'hi'],['' '' '' '' '']
+436,"['@Gurmeetramrahim' '#StillMSG2Everywhere' 'pitaji' 'apne' 'charnon'
+ 'Main' 'rakhna' 'duniya' 'ki' 'parvah' 'na' 'rahe' 'himmat' 'do' 'mere'
+ 'MSG' 'Papaji' '.']","['en' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'en' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+437,"['RT' '@kkorde01' ':' 'MUTP-III' 'for' 'Mumbai' 'approved' ',' 'Great'
+ 'news' 'for' 'suburban' 'Mumbaikars' '.' '@sureshpprabhu'
+ '#RailBudget2015' '@HTMumbai']","['en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'rest'
+ 'rest' 'rest' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+438,"['RT' '@AAP4ODISHA' ':' 'Ex-OJM' 'youth' 'leader' 'Tarunkanta' 'Pati' ','
+ 'along' 'with' 'several' 'members' ',' 'joined' 'AAP' 'today' ';' 'will'
+ 'work' 'full-time' '4' '#OdishaJodo' 'https' ':']","['en' 'rest' 'rest' 'en' 'en' 'en' 'hi' 'hi' 'rest' 'en' 'en' 'en' 'en'
+ 'rest' 'en' 'hi' 'en' 'rest' 'en' 'en' 'en' 'rest' 'rest' 'en' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '']"
+439,"['@mohituraina' '@saurabhraajjain' 'happy' 'independence' 'day'
+ 'belatedly' 'vande' 'mataram']",['rest' 'hi' 'en' 'en' 'en' 'en' 'hi' 'hi'],['' '' '' '' '' '' '' '']
+440,"['@madhums_' '@archi7194' 'apko' 'bhi' 'mahashivratri' 'ki' 'bahut'
+ 'bahut' 'badhaiyan' ',' 'may' 'lord' 'shiva' 'bless' 'all' '.' 'Thnx' '.']","['rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'en' 'en' 'en'
+ 'en' 'en' 'rest' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+441,"['RT' '@suhasinih' ':' 'A' 'year' 'after' 'HRD' 'min' 'cancelled' 'German'
+ 'in' 'Kendriya' 'Vidyalayas' ',' 'Merkel' 'visit' 'gets' 'it' 'back' 'in'
+ 'syllabus' ',' '@smritikak' 'http://t.co/t']","['en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'hi' 'hi'
+ 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+442,"['@MeShivShakti' 'Ohm' 'namaha' 'shivya' ',' 'Happy' 'mahashivratri' ','
+ 'hope' 'bholenath' 'aapki' 'sari' 'manokamnaye' 'poori' 'kare' ','
+ 'enjoy' 'it' '.']","['hi' 'en' 'rest' 'rest' 'rest' 'en' 'rest' 'rest' 'en' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'rest' 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+443,"['RT' '@shrishtimona' ':' 'kabhi' 'kabhi' 'to' 'ye' 'sonch' 'ke' 'bdi'
+ 'hasi' 'a' 'jati' 'hai' 'ki' ',' 'Neil' 'Nitin' 'Mukesh' 'ke' 'bete' 'ka'
+ 'naam' 'kya' 'hoga' '.']","['en' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'rest' 'en' 'en' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '']"
+444,['@LOLendraSingh' 'bhai' 'seriously' 'hota' 'ya' 'bas' 'bolra'],['rest' 'hi' 'en' 'hi' 'hi' 'hi' 'rest'],['' '' '' '' '' '' '']
+445,"['@abhijeetsinger' 'sir' 'agar' 'footpath' 'pe' 'sona' 'crime' 'hai' 'toh'
+ 'hair' 'transplant' 'bhi' 'crime' 'hai' '.' '#SalmanGuilty']","['hi' 'hi' 'hi' 'en' 'hi' 'hi' 'en' 'hi' 'hi' 'en' 'en' 'hi' 'en' 'hi'
+ 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+446,"['Pandit' 'Brijendra' 'Sharma' 'performing' 'Rudrabhishek' 'Yagya' 'for'
+ 'Mahashivratri' 'yesterday' ',' 'Feb' '17th' '.' 'Har' 'Har' 'Mahadev'
+ '!' 'http://t.co/jdBUjuLnFS']","['rest' 'rest' 'rest' 'en' 'rest' 'hi' 'en' 'en' 'en' 'rest' 'en' 'en'
+ 'rest' 'hi' 'hi' 'rest' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+447,"['@NaIna0806' 'ye' 'DONO' 'Bhai' 'dikh' 'rahe' 'hai' 'kejriwal' 'Ka'
+ 'baap' 'bhi' 'tharki' 'hoga']",['rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'],['' '' '' '' '' '' '' '' '' '' '' '' '']
+448,"['RT' '@AAPDelhiFeeds' ':' 'Sangam' 'Vihar' '-' 'Work' 'of' 'laying'
+ 'water' 'pipeline' 'in' 'Tughlakabad' 'Extension' '.' 'MLA' ';' 'Dinesh'
+ 'Mohaniya' 'https://t.co/NL8BAzLbaY']","['en' 'en' 'rest' 'hi' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'hi'
+ 'en' 'rest' 'rest' 'rest' 'hi' 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+449,"['Morata' 'and' 'cuadrado' '2' 'giant' 'club' 'rejects' 'are' 'now'
+ 'destroying' 'another' 'giant' 'club' 'bayern' 'Munich' '#Chelsea'
+ '#RealMadrid' '#BayernJuve' '#UCL']","['rest' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'en' 'en' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+450,"['@viratian4lyf_' 'try' 'nahi' 'karoge' 'to' 'khush' 'rahoge' 'believe'
+ 'me' '..' 'try' 'karo' 'ge' 'to' 'mushkil' 'ho' 'jayega' 'khush' 'rehna']","['en' 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'en' 'hi' 'rest' 'en' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+451,"['RT' '@CricketNDTV' ':' '#IPL8' 'Rajasthan' '189/2' 'vs' 'Delhi' '.'
+ 'Rahane' '91' '*' ',' 'Nair' '61' 'http://t.co/Dk5TFlfK6W' '#RRvDD']","['en' 'en' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'hi' 'rest'
+ 'rest' 'rest' 'rest' 'rest' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+452,"['#MSG2In505crOn200thDay' '@Gurmeetramrahim' 'Thanku' 'for' 'Blessing'
+ '.....' 'Good' 'Morning' 'Pita' 'G' 'Sewa' 'Simrn' 'parmarth' 'ka' 'Bal'
+ 'bksna' 'ji']","['en' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'hi' 'en' 'en' 'en' 'en' 'hi'
+ 'hi' 'hi' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+453,"['jai' 'shree' 'krishana' 'n' 'Mahashivratri' 'sab' 'k' 'liye' 'shubh'
+ 'ho' 'r' 'mangalmay' 'ho']",['hi' 'en' 'rest' 'en' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'],['' '' '' '' '' '' '' '' '' '' '' '' '']
+454,"[':' 'LAST' 'NIGHT' 'MAHASHIVRATRI' 'RUDRABHISHEK' '.....' 'Poojan'
+ 'sampanna' '...' 'http://t.co/NHvveffMwT']",['rest' 'en' 'en' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'en'],['' '' '' '' '' '' '' '' '' '']
+455,"['Anmona' 'Bangla' 'Music' 'Video' 'HD' 'Download' 'By' 'Ibrar' 'Tipu' '('
+ '2014' ')' '1080p' 'http://t.co/7L2RWDNUzz']","['rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'rest'
+ 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+456,"['Kya' 'aapke' 'bacche' 'aapki' 'baat' 'nahi' 'sunte' '?' 'Unhe' 'ye'
+ 'tasveer' 'dikhaiye' ',' 'dar' 'ke' 'maare' 'aapki' 'ek-ek' 'baat'
+ 'sunne' 'lagenge' '.' 'https://t.co/KqP4ExOBPl']","['hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi'
+ 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+457,"['Omm' 'Namah' 'Shivay' '.' 'Maha' 'Dipa' '@' 'Lingaraj' 'Temple'
+ '#Bhubaneswar' '#MahaShivratri' 'http://t.co/rKZ9ZhOs7G']",['en' 'rest' 'rest' 'rest' 'hi' 'rest' 'rest' 'rest' 'en' 'hi' 'rest' 'en'],['' '' '' '' '' '' '' '' '' '' '' '']
+458,"['If' 'I' 'were' 'Rohit' 'or' 'Dhawan' 'or' 'Raina' ',' 'I' 'would' 'have'
+ 'been' 'ashamed' 'to' 'be' 'in' 'the' 'team' 'sharing' 'moments' 'with'
+ 'Kohli' '&' 'Dhoni' '.' '#indvsaus']","['en' 'en' 'en' 'en' 'hi' 'hi' 'hi' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'rest'
+ 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '']"
+459,"['#RahulOnLeave' 'BC' 'kiya' 'he' 'kya' 'tha' 'jo' 'chutti' 'me' 'gya'
+ 'hai' '..']",['en' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest'],['' '' '' '' '' '' '' '' '' '' '' '']
+460,"['I' 'guess' 'dilli' 'k' 'baad' 'Gala' 'Jhaadu' 'k' 'bhi' 'din' 'fir'
+ 'gaye' 'hai' '...' '#Jhaadu' '#ads']","['en' 'en' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest'
+ 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+461,"['@Radznanda' 'time' 'wahi' 'rakho' 'date' 'change' 'karlo' 'whenever' 'u'
+ 'say']",['rest' 'en' 'hi' 'hi' 'en' 'en' 'hi' 'en' 'en' 'en'],['' '' '' '' '' '' '' '' '' '']
+462,"['RT' '@Babu_Bhaiyaa' ':' 'Congress' 'strategist' 'Prashant' 'Kishor'
+ 'wants' 'Rahul' 'Gandhi' 'as' 'UP' 'CM' 'candidate' '...' 'Looks' 'like'
+ 'Prashant' 'Kishor' 'taking' 'money' 'from']","['en' 'rest' 'rest' 'en' 'en' 'en' 'hi' 'en' 'en' 'rest' 'en' 'en' 'en'
+ 'en' 'rest' 'en' 'en' 'en' 'hi' 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+463,"['#Mauka' 'mauka' 'har' 'chance' 'pe' 'mara' 'chauka' '...' 'Well' 'bat'
+ '#IndianCricketTeam' '...' '@StarSportsIndia' '#IndvsSA']","['hi' 'hi' 'hi' 'en' 'hi' 'hi' 'hi' 'rest' 'en' 'en' 'en' 'rest' 'rest'
+ 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+464,"['Miss' 'being' 'in' 'hometown' 'Udaipur' 'visiting' 'Eklingnathji-King'
+ 'of' 'Mewar' ',' 'whose' 'Dewan(Primeminister)Rana' 'Pratap' 'was' '.'
+ 'Jai' 'Eklingnathji' '#MahaShivratri']","['en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'rest' 'en'
+ 'rest' 'hi' 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+465,"['RT' '@ITwingDSS' ':' 'Pious' 'Bhandara' 'for' 'the' 'Foundation' 'Day'
+ '&' 'Jaam-E-Insan' 'Day' 'will' 'be' 'celebrated' 'on' '29th' 'April'
+ 'at' 'Shah' 'Satnam' 'Ji' 'Dham' ',' 'Sirsa' 'from']","['en' 'en' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'en' 'rest' 'rest' 'en'
+ 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest' 'en']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '']"
+466,"['@iAnkurSingh' 'ha' 'ha' '..' 'Alaah' 'ke' 'naam' 'pe' 'modi' 'ka'
+ 'resignation' 'de' 'baba' '..']","['rest' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'en' 'hi' 'hi'
+ 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+467,"['@sreesijin' '@narendramodi' '@DrGarekar' '@upma23' '@KanchanGupta'
+ 'Khun' 'chus' 'rahe' 'he' 'in' '@narendramodi' 'ka' '.'
+ '#LandAcquisitionBill' '.' '#Cronycapitalism' '.']","['en' 'rest' 'rest' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'en' 'rest' 'hi'
+ 'rest' 'rest' 'rest' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+468,"['RT' '@AAPDelhiFeeds' ':' 'Najafgarh' '-' 'MLA' ',' 'Kailash' 'Gahlot'
+ 'inspects' 'water' 'pipeline' 'being' 'laid' 'in' 'Jai' 'Vihar' '.'
+ 'https://t.co/ORikOObuVw']","['en' 'en' 'rest' 'hi' 'rest' 'rest' 'rest' 'hi' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'en' 'hi' 'rest' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+469,"['Retweeted' 'anjlii' '(' '@anjliinsan1' '):' '@Gurmeetramrahim' 'superb'
+ 'se' 'kahin' 'uper' '#MSGdedicatesAwardToGuruji']",['en' 'rest' 'rest' 'rest' 'rest' 'en' 'en' 'hi' 'hi' 'en' 'en'],['' '' '' '' '' '' '' '' '' '' '']
+470,['@gurmeetramrahim' '#HeroNo1BRR' 'good' 'morning' 'pita' 'ji'],['en' 'en' 'en' 'en' 'hi' 'hi'],['' '' '' '' '' '']
+471,"['3' 'bhi' 'kyun' 'chhod' 'diya' '...' 'wo' 'bhi' 'de' 'do' 'na' 'raaiyta'
+ 'failane' '#DelhiDecides' '#KiskiDilli']","['rest' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'en' 'en'
+ 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+472,"['ShivSena' 'ko' 'aisi' 'harkate' '.' 'n' 'Shobha' ""'"" ""Dey'ti"" 'hain'
+ 'kya' '?!!?' '#CelebNovels']",['hi' 'hi' 'hi' 'hi' 'rest' 'en' 'hi' 'rest' 'hi' 'hi' 'hi' 'rest' 'en'],['' '' '' '' '' '' '' '' '' '' '' '' '']
+473,"['From' 'the' 'boat' '...' 'kalijai' 'temple' '...' 'awesome' '!!!'
+ '#kalijai' '#kalijaitemple' '#chilikalake' '#chilika' '#odisha'
+ 'https://t.co/ijBh7sZcPy']","['en' 'en' 'en' 'rest' 'hi' 'en' 'rest' 'en' 'rest' 'hi' 'hi' 'hi' 'rest'
+ 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+474,"['RT' '@IndiaToday' ':' 'Parrikar' 'seeks' 'report' 'from' 'Army' 'chief'
+ 'over' 'semi-nude' 'exam' 'in' 'Bihar' 'https://t.co/v3uM7TBf2s'
+ 'https://t.co/J5sXjGqWYn']","['en' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'rest' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+475,"['RT' '@timesofindia' ':' 'Asaduddin' 'Owaisi' ':' 'The' 'new' 'star' 'in'
+ 'Muslim' 'politics' 'http://t.co/BFs50pwKkT' 'http://t.co/AioKxvwEp6']",['en' 'en' 'rest' 'hi' 'hi' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en'],['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+476,"[':' 'LAST' 'NIGHT' 'MAHASHIVRATRI' 'RUDRABHISHEK' '.....' 'Janeu' 'aur'
+ 'Vastradi' 'arpan' '...' 'http://t.co/OBeajNQUe3']",['rest' 'en' 'en' 'rest' 'rest' 'rest' 'rest' 'hi' 'en' 'en' 'rest' 'en'],['' '' '' '' '' '' '' '' '' '' '' '']
+477,"['RT' '@Saba5786' ':' 'mahashivratri' 'in' 'yrkkh' 'devyani' 'is' 'tense'
+ 'becoz' 'alok' 'parents' 'r' 'cuming' '#sbs' 'seg' '@naksh_aliya'
+ '@Preeti_PCH2004']","['en' 'rest' 'rest' 'rest' 'en' 'hi' 'hi' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'en' 'en' 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+478,"['@Mian_Talha_16' '@FBkaBaap' 'location' 'ka' 'to' 'pta' 'nahi' ',' 'per'
+ 'FAMOUS' 'bht' 'he' 'wo']",['rest' 'rest' 'en' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'en' 'hi' 'hi' 'hi'],['' '' '' '' '' '' '' '' '' '' '' '' '']
+479,"['RT' '@NaMo_272' ':' 'RT' '@ANI_news' ':' 'Suresh' 'Prabhu'
+ '#RailBudget2015' ':' '67%' 'more' 'funds' 'allotted' 'for' 'passenger'
+ 'amenities']","['en' 'rest' 'rest' 'en' 'en' 'rest' 'en' 'rest' 'rest' 'rest' 'rest' 'en'
+ 'en' 'en' 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+480,"['Degree' 'tera' 'Kejri' 'Dewaana' ',' 'Hai' 'Ram' 'Delhi' 'bhool' 'PM'
+ 'ka' 'bheja' 'khana' '.' '#DegreeDialogues' '@Atheist_Krishna']","['en' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'rest' 'hi' 'rest' 'hi' 'hi' 'hi'
+ 'rest' 'en' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+481,"['Har' 'Har' 'Mahadev' '..' 'BamBam' 'Bhole' '..' 'Om' 'Namah' 'Shivah'
+ '..' 'Happy' '#Mahashivratri' '@Modi_G' '@Pragnik' '@Drshobha'
+ '@bond_004']","['hi' 'hi' 'rest' 'rest' 'rest' 'hi' 'rest' 'rest' 'rest' 'rest' 'rest'
+ 'en' 'rest' 'rest' 'rest' 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+482,"['#Weddings' '@' 'Sri' 'Vairavimada' 'Kaliamman' 'Temple'
+ 'https://t.co/1NSJ8kRIZa']",['en' 'rest' 'rest' 'rest' 'rest' 'en' 'en'],['' '' '' '' '' '' '']
+483,['AJIN-KYA' 'yaar' 'bahut' 'slow' 'khel' 'rahe' 'ho' '#RPSvGL'],['hi' 'hi' 'hi' 'en' 'hi' 'hi' 'hi' 'rest'],['' '' '' '' '' '' '' '']
+484,"['railway' 'budget' '""' 'Action' '""' 'zameen' 'par' 'dikhe' 'to' 'behtar'
+ 'hoga' 'Files' 'to' 'govt' 'offices' 'me' 'dhool' 'hi' 'khaati' 'hain'
+ '#PrabhuKiRail' '#RailBudget2015']","['en' 'en' 'rest' 'en' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'en' 'en' 'en'
+ 'en' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+485,"['RT' '@TamalDas8' ':' 'PIB_India' '#UHF' 'RT' 'RailMinIndia' ':' 'MR'
+ 'Sureshprabhu' 'Presents' 'the' 'Rail' 'Budget' '2015' '#RailBudget2015']","['en' 'rest' 'rest' 'rest' 'rest' 'en' 'rest' 'rest' 'rest' 'rest' 'en'
+ 'en' 'en' 'en' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+486,"['how' 'many' 'of' 'you' 'doing' 'JAGARAN' '...' 'OM' 'NAMAH' 'SHIVAYA'
+ '....' 'HARA' 'HARA' 'MAHADEV' 'http://t.co/IJKDaaaJRQ']","['en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'hi'
+ 'hi' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+487,['@divyeah_13' '@ttindia' 'he' 'is' 'called' 'Chetan' 'Bhakt' 'now'],['rest' 'rest' 'en' 'en' 'en' 'hi' 'hi' 'en'],['' '' '' '' '' '' '' '']
+488,"['Rahul' 'Gandhi' ':' 'Maa' ',' 'Ishrat' 'kaun' 'thi' '.' 'Sonia' 'Gandhi'
+ ':' 'Teri' 'behen' 'jaisi' 'thi' 'beta' ',' 'shaheed' 'ho' 'gayi' '.' '*'
+ 'cries' '*' '#IshratCoverup']","['en' 'rest' 'rest' 'hi' 'rest' 'rest' 'hi' 'hi' 'rest' 'rest' 'rest'
+ 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'rest' 'rest' 'en'
+ 'rest' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '']"
+489,"['RT' '@bHoOt_sAys' ':' 'Final' ':' 'Shadeed' 'Kaalay' 'VS' 'Shadeed'
+ 'Goray' '#ENGvWI']",['en' 'hi' 'rest' 'en' 'rest' 'hi' 'hi' 'rest' 'en' 'en' 'en'],['' '' '' '' '' '' '' '' '' '' '']
+490,"['@sardanarohit' '#MustWatchMSG' 'Thank' 'u' 'Rohit' 'ji' 'agar' 'all'
+ 'India' 'me' 'release' 'hoti' 'to' 'aur' 'bhi' 'jabardast' 'record'
+ 'bante' 'http://t.co/qPBpXWF7Ga']","['rest' 'en' 'en' 'en' 'en' 'hi' 'hi' 'en' 'rest' 'hi' 'en' 'hi' 'hi' 'hi'
+ 'hi' 'rest' 'en' 'hi' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+491,"['RT' '@RAJ_KUMAR_VERMA' ':' '@PMOIndia' '@Swamy39' 'sir' ','
+ 'construction' ',' 'real' 'est' ',' 'infra' 'sector' 'totally'
+ 'collapsed' ',' 'Companies' 'dieing' 'going' 'bankrupt' ',' 'pilin']","['en' 'rest' 'rest' 'rest' 'en' 'en' 'rest' 'en' 'rest' 'en' 'en' 'rest'
+ 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+492,"['After' ""''''"" 'Produce' '101' ""''''"" 'success' ',' 'Mnet' 'to' 'launch'
+ 'boy' 'band' 'survival' 'show' '-' 'Korea' 'Times'
+ 'https://t.co/9nMDmLJ0sA']","['en' 'rest' 'en' 'rest' 'rest' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'rest' 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+493,"['Mahesh' 'Babu' 'To' 'Romance' 'Aliah' 'Bhatt' 'in' 'MurugaDoss' '||'
+ 'Latest' 'Telugu' 'Film' 'News' 'Updates' ':' 'https://t.co/g5yrRNSNIn'
+ 'via' '@YouTube']","['hi' 'hi' 'hi' 'en' 'hi' 'hi' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en'
+ 'rest' 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+494,"['Humse' 'badhkar' 'sycophant' 'Kaun' '?' 'Mata' 'ho' 'Mata' 'Sonia'
+ 'Mata' ',' 'Tumse' 'badhkar' 'kaun' '....' 'https://t.co/028JEiulAn']","['hi' 'hi' 'en' 'hi' 'rest' 'hi' 'hi' 'hi' 'rest' 'hi' 'rest' 'hi' 'hi'
+ 'hi' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+495,"['Without' '@bhogleharsha' 'IPL' 'is' 'CPL' '-Chutya' 'premier' 'League'
+ 'https://t.co/lP0fcRvyx9']",['en' 'hi' 'en' 'en' 'en' 'en' 'en' 'en' 'en'],['' '' '' '' '' '' '' '' '']
+496,"['India' 'beats' 'UAE' 'now' 'price' 'of' 'petrol' '&' 'diesel' 'hiked'
+ '.......' 'or' 'haralo' 'UAE' 'ko' ':)' '////']","['rest' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'rest' 'hi' 'hi'
+ 'hi' 'hi' 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+497,"['Similarity' 'between' '@kamaalrkhan' 'and' '#rahulgandhi' 'bhosdike'
+ 'dono' 'wapas' 'aa' 'Gaye' 'aur' 'kisi' 'ko' 'khusi' 'Nahi' 'hui' '.'
+ '#irshaad' '#RahulOnLeave' '#Wtf']","['en' 'en' 'hi' 'en' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'hi' 'rest' 'rest' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+498,"['RT' '@BollywoodH' ':' 'Shahrukh' 'Khan' ',' 'Alia' 'Bhatt' ','
+ 'Sidharth' 'Malhotra' '&' 'Others' 'At' 'Karan' ""Johar's"" 'Party' ':'
+ 'https://t.co/tuabPWAgef' 'via' '@YouTube']","['en' 'en' 'rest' 'hi' 'hi' 'rest' 'hi' 'hi' 'rest' 'en' 'en' 'rest' 'en'
+ 'en' 'hi' 'rest' 'en' 'rest' 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+499,"['RT' '@SangeetBangla' ':' 'The' 'hit' 'jodi' ',' 'The' 'hit' 'song' '..'
+ 'Enjoy' 'the' 'title' 'track' 'of' '#PoranJaiJoliyaRe' 'on'
+ '#SBAllTimeHits' 'https://t.co/MzMXvDpt6R']","['en' 'rest' 'rest' 'en' 'en' 'hi' 'rest' 'en' 'en' 'en' 'rest' 'en' 'en'
+ 'en' 'en' 'en' 'rest' 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+500,"['#RailBudget2015' ':' ""Prabhu's"" 'maiden' 'apolitical' ',' 'practical'
+ 'and' 'visionary' 'Rail' 'Budget' 'for' 'aspirational' 'India' '.' 'Find'
+ 'key' 'http://t.co/yFLoBgLJCq']","['rest' 'rest' 'rest' 'en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'en'
+ 'rest' 'rest' 'en' 'hi' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+501,"['RT' '@JantaKaReporter' ':' 'While' 'jury' 'is' 'out' 'on' 'Achche' 'Din'
+ ',' 'Modi' 'will' 'say' '""' 'Zara' 'Muskura' 'Do' '""' 'on' '26' 'May' '.'
+ 'Read' 'why' 'https://t.co/0vcHPwv95V']","['en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'hi' 'hi' 'rest' 'rest' 'en'
+ 'en' 'rest' 'hi' 'hi' 'hi' 'rest' 'en' 'rest' 'en' 'rest' 'en' 'en' 'en']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '']"
+502,"[""'"" 'Talvar' ""'"" 'starring' '#Irrfan' 'Khan' 'and' '#Konkana' 'Sen'
+ 'Sharma' '.' 'The' 'movie' 'is' 'based' 'on' 'the' 'controversial'
+ '#Aarushi' 'Talwar' '...' 'http://t.co/JdFX7sVbi3']","['rest' 'rest' 'rest' 'en' 'en' 'hi' 'en' 'rest' 'en' 'rest' 'rest' 'en'
+ 'en' 'en' 'en' 'en' 'en' 'en' 'hi' 'hi' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+503,"['Yeh' 'Dinda' ',' 'humesha' 'Dinda' 'hi' 'rahega']",['hi' 'rest' 'rest' 'hi' 'rest' 'hi' 'hi'],['' '' '' '' '' '' '']
+504,"['Congress' 'Is' 'a' 'Party' 'of' 'Terrorist' 'like' 'p' '.' 'chindabaram'
+ ',' 'Digvijay' ',' 'Manish' 'Tiwari' ',' 'Rajiv' 'Shukla' ',' 'Pappu' 'n'
+ 'Pappu' 'di' 'maa' '..' '#HistoryOfNehruDynasty']","['en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'en' 'rest'
+ 'rest' 'hi' 'rest' 'rest' 'rest' 'rest' 'rest' 'en' 'en' 'hi' 'hi' 'rest'
+ 'en']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '']"
+505,"['RT' '@itss_vaibhav' ':' 'parents' ':' 'Apna' 'boriya' 'bistar'
+ 'sambhalo' 'aur' 'nikal' 'jao' 'ghar' 'se' '!!' 'She' ':'
+ 'https://t.co/XtPZ3SpuJU']","['en' 'rest' 'rest' 'en' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi'
+ 'hi' 'rest' 'en' 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+506,"['Pakistan' 'ke' 'overconfidence' 'ko' 'manna' 'padega' '!' 'Rofl' ':' ""'""
+ 'D' '#IndvsPak' '#IndWins' '#WeWontGiveItBack']","['rest' 'hi' 'en' 'hi' 'hi' 'hi' 'rest' 'en' 'rest' 'rest' 'rest' 'rest'
+ 'rest' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+507,"['#MahaShivratri' 'May' 'the' 'Lord' 'bless' 'all' '.' 'Nagendra'
+ 'Haraya_MS' 'Subbulakshmi_Adi' 'Shankaracharya' ':'
+ 'http://t.co/KzWJGtm6YH' 'via' '@YouTube']","['rest' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'hi' 'hi' 'rest'
+ 'en' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+508,"['RT' '@indianortheast' ':' 'Three' 'States' 'of' 'North' 'East' 'India'
+ 'lead' 'the' 'table' 'in' 'providing' 'rural' 'jobs' 'in' 'India' '.'
+ 'Tripura' 'retained' 'its' 'top' '...' 'https://t']","['en' 'en' 'rest' 'en' 'en' 'en' 'en' 'en' 'rest' 'en' 'en' 'hi' 'en' 'en'
+ 'en' 'en' 'en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'rest' 'en']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '']"
+509,"['@SrBachchan' 'Mumbai' 'me' 'har' 'kuch' '""' 'had' 'se' 'zyaada' '""' 'he'
+ '!' 'Har' 'kadam' 'ek' 'naya' '#YUDH' 'he' '...!!']","['hi' 'rest' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi' 'rest' 'hi' 'rest' 'hi'
+ 'hi' 'hi' 'hi' 'rest' 'hi' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+510,"['RT' '@yamemon' ':' 'Madine' 'ke' 'khitte' 'Khuda' 'tujh' 'ko' 'rakkhe'
+ '/' 'Gharibon' 'faqiron' 'ke' 'thehrane' 'wale']","['en' 'en' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'en' 'hi'
+ 'hi' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+511,"['@ImRaina' '&' 'Indian' 'Cricket' 'Team' 'Aapko' 'MahaShivratri' 'ki'
+ 'Mangal' 'Kamnayein' '.' 'Jai' 'Bholey' '.' 'Mahadev' 'se' 'prathna'
+ 'unka' 'Ashirwad' 'hum' 'sab' 'par' 'bana' 'rahey' '.']","['rest' 'rest' 'rest' 'en' 'en' 'hi' 'rest' 'hi' 'hi' 'hi' 'rest' 'hi'
+ 'hi' 'rest' 'rest' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'hi' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '']"
+512,"['RT' '@KiranKS' ':' 'Modi' 'meets' 'Lance' 'Naik' 'Hanumanthappa' '.'
+ 'Rahul' '(' 'out' 'on' 'bail' 'for' 'scam' ')' 'meets' 'Kanhaiya' 'Kumar'
+ '(' 'out' 'on' 'bail' 'for' 'sedition' 'charge' ')' '.' '#P']","['en' 'rest' 'rest' 'rest' 'en' 'en' 'rest' 'rest' 'rest' 'en' 'rest' 'en'
+ 'en' 'en' 'en' 'en' 'rest' 'hi' 'hi' 'hi' 'rest' 'en' 'en' 'en' 'en' 'en'
+ 'en' 'rest' 'rest' 'rest']","['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' ''
+ '' '' '' '' '' '']"
+513,"['23' 'March' '#' '#BhagatSingh' '#Rajguru' '#Sukhdev' 'salute' 'them'
+ 'and' 'our' '#ind' '#ARMY' '#sudhirchaudhari' '#BharatMataKiJay'
+ '#HappyHoli']","['rest' 'rest' 'rest' 'rest' 'rest' 'rest' 'en' 'en' 'en' 'en' 'rest'
+ 'rest' 'hi' 'hi' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+514,"['Garbage' 'piles' 'up' 'in' 'Hyderabad' 'as' 'Municipal' 'Workers'
+ 'strike' 'continues' 'http://t.co/njCh9ztOzm' 'http://t.co/ewXfsinELG']",['en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en'],['' '' '' '' '' '' '' '' '' '' '' '']
+515,"['Shohag' 'Chand' 'Full' 'Mp3' 'Song' 'Free' 'Download' 'Romeo' 'Vs'
+ 'Juliet' 'Feat' '.' 'Akassh' 'http://t.co/41ZjxyskK8']",['hi' 'hi' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'hi' 'en'],['' '' '' '' '' '' '' '' '' '' '' '' '' '']
+516,"['@CricCrazyNIKS' 'so' 'now' 'rcb' 'not' 'using' 'kohli' 'ab' 'or'
+ 'watson' 'to' 'full' 'extent']",['en' 'en' 'en' 'en' 'en' 'en' 'hi' 'hi' 'hi' 'en' 'en' 'en' 'en'],['' '' '' '' '' '' '' '' '' '' '' '' '']
+517,['Happy' 'mahashivratri' 'Om' 'Namah' 'Shivai'],['en' 'rest' 'rest' 'rest' 'rest'],['' '' '' '' '']
+518,"['RT' '@anujjudeeval' ':' 'Perfect' 'railway' 'budget' 'ever' '#BudgetBT'
+ '#' '#RailBudget2015' '#IndianRailways' '@abpnewstv' '@aajtakki' 'to'
+ 'jal' 'gyi' ',' 'Pata' 'ni' 'ko']","['en' 'rest' 'rest' 'en' 'en' 'en' 'en' 'en' 'rest' 'rest' 'rest' 'en'
+ 'hi' 'hi' 'hi' 'hi' 'rest' 'hi' 'hi' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+519,"['#ModiScaredOfSonia' ""it's"" 'not' 'about' 'Modi' 'ji' ',' 'every'
+ 'citizen' 'of' 'India' 'scared' 'of' 'Sonia' '..']","['rest' 'en' 'en' 'en' 'en' 'hi' 'rest' 'en' 'en' 'en' 'rest' 'en' 'en'
+ 'rest' 'rest']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+520,"['RT' '@RachanasFamily' ':' '#RachanaParulkar' 'MahaShivratri' 'Special'
+ 'Interview' ':' 'Maharana' 'Pratap' '17th' 'February' '2015' '-SBS'
+ 'segment' 'https://t.co/QltjQSI']","['en' 'en' 'rest' 'hi' 'rest' 'en' 'en' 'rest' 'rest' 'rest' 'en' 'en'
+ 'rest' 'rest' 'en' 'en']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
+521,"['@muskurana123' 'oh' 'yeah' ',' 'that' 'whole' 'revenge' 'thingie' 'at'
+ 'least' '2015' 'ka' 'revenge' 'le' 'liya']","['rest' 'hi' 'hi' 'rest' 'en' 'en' 'en' 'en' 'en' 'en' 'rest' 'hi' 'en'
+ 'hi' 'hi']",['' '' '' '' '' '' '' '' '' '' '' '' '' '' '']
