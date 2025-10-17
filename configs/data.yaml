@@ -1,0 +1,16 @@
+data_root: "LinCE_dataset"
+registry:
+  lid:
+    hineng: {train: lid_hineng_train.csv, validation: lid_hineng_validation.csv, test: lid_hineng_test.csv}
+    msaea:  {train: lid_msaea_train.csv,  validation: lid_msaea_validation.csv,  test: lid_msaea_test.csv}
+    nepeng: {train: lid_nepeng_train.csv, validation: lid_nepeng_validation.csv, test: lid_nepeng_test.csv}
+    spaeng: {train: lid_spaeng_train.csv, validation: lid_spaeng_validation.csv, test: lid_spaeng_test.csv}
+  ner:
+    hineng: {train: ner_hineng_train.csv, validation: ner_hineng_validation.csv, test: ner_hineng_test.csv}
+    msaea:  {train: ner_msaea_train.csv,  validation: ner_msaea_validation.csv,  test: ner_msaea_test.csv}
+    spaeng: {train: ner_spaeng_train.csv, validation: ner_spaeng_validation.csv, test: ner_spaeng_test.csv}
+  pos:
+    hineng: {train: pos_hineng_train.csv, validation: pos_hineng_validation.csv, test: pos_hineng_test.csv}
+    spaeng: {train: pos_spaeng_train.csv, validation: pos_spaeng_validation.csv, test: pos_spaeng_test.csv}
+  sa:
+    spaeng: {train: sa_spaeng_train.csv, validation: sa_spaeng_validation.csv, test: sa_spaeng_test.csv}
