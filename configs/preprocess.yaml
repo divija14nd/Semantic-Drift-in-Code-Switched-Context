@@ -1,0 +1,9 @@
+normalize:
+  unicode_nfkc: true
+  strip: true
+  lowercase: true
+filters:
+  min_len: 1
+  drop_empty: true
+output:
+  format: "csv"
